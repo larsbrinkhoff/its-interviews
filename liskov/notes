@@ -1,0 +1,36 @@
+"I had used Lisp extensively..."  Where, how?  Stanford AI lab, McCarthy.
+Why move from Maclisp, what "political reasons"?
+
+Bootstrap from Muddle.
+
+Jack Dennis' Computation Structures Group. Licklider's Dynamic Modeling group.
+Own group Programming Methodology.  (Atkinson, Schaffert, Snyder)
+
+Why ITS?  I.e. not Multics.
+How to pronounce ITS?
+Later, ITS -> XX.  1978?
+Imlac?
+VAXstation 100 -> Scheifler started X
+X10, no X11
+
+Snyder, C influence?  CLU/C compilers contemporary?
+
+- parameterized types
+- exceptions
+- iterators
+
+(Datacomputer?)
+
+TRON - CLU?  (script by Kay's wife!)
+
+linker? aug 1979
+
+Editor?  teco, ted, rmode, emacs
+
+CLU mode
+
+start_up like main in C or PL/I
+
+fload, same as muddle
+
+Is it right to use gc_pure_dump?
