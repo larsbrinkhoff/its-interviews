@@ -1,0 +1,435 @@
+INTERVIEWER: So, this is the 150th interview with Dr. Barbara Liskov. And the first question I'm going to ask you is can you tell me a little bit about growing up in California and your family? 
+
+LISKOV: I grew up in San Francisco. My mother was a homemaker, my father was an attorney. I'm the oldest of four children, and my brother is nine years younger, so for a long time I was the oldest girl who, you know, is sort of like the surrogate for the son. I went to public school. I was always interested in math and science, which, you know, was not really the thing that girls were supposed to do in those days and I just seemed to do it anyway. I don't recall any particular teacher that sought me out or did anything special. I sort of just kept a low profile and did what I was interested in, but I didn't talk about it very much. My father advised me to take a typing course, because in the -- if I should happen to not get married or something would happen to my husband, then I could support myself as a secretary or maybe I could be a teacher. Those were sort of the professionals that were considered to be open to women. Typing turned out to be very useful for me, like it has been for many other people. 
+
+I remember taking a test in high school to see what career I should -- everybody was taking these tests, and I guess that the experience was often quite universally that they gave you very bad advice. In my case they advised me that I could be a landscape architect, and I suspect that what this was was they were trying to figure out what they could do with my scientific bent in a way that didn't seem too unfeminine. But I'm not the kind of person who pays a lot attention to this kind of stuff, so I, even at the time, thought it was kind of funny and strange that they came up with that. 
+
+INTERVIEWER: I'm surprised it wasn't stewardess. 
+
+LISKOV: That was another one that was really popular at that time. 
+
+INTERVIEWER: I can imagine. What was it like -- in what ways did you get supported or not supported growing up as a female being interested in math and science? 
+
+LISKOV: The question is how was I supported or not supported? My father was very interested in his children doing well in school and there was never any -- nobody ever said anything about it not being appropriate to take the courses I was taking. So they were very happy to have me take all that math and science, so I never heard anything from my parents about it's not appropriate for a girl to do this. And my mother was also supportive in the sense that she never tried to push me in some other direction. On the other hand, I also had no particular encouragement -- nobody ever said to me oh, yes, you really should go in that direction. But I think that a lot of girls in my generation got a lot of negative feedback, and I was definitely not getting negative feedback from my family. 
+
+INTERVIEWER: Did you get any feedback or support or lack of support from your peers or from teachers? 
+
+LISKOV: I had a math teacher in high school, the one who taught the advanced math classes, and I don't recall him being particularly, you know, inviting me to do things, but on the other hand I think he also didn't try to exclude me. At the time I was so naive I really had very little idea of what was going on. I remember the classes being very small because at that time when I took advanced calculus, it was very unusual -- I mean calculus, it was very unusual to do that in high school at that time, so I guess I felt -- I didn't feel that it was not okay -- well, that's not actually the right statement. I didn't feel anything really negative coming that way. I mean definitely on the other hand as far as peers were concerned, this was a weird thing for a girl to be doing. But, of course, I had a few friends, you know, but I didn't have friends who were also interested in this kind of stuff. So I had like two different lives. 
+
+INTERVIEWER: How was it you came to go to UC Berkeley? 
+
+LISKOV: Well, it's the obvious place to go for somebody in California. You know, you have the -- it's a very good school, and at that time extremely inexpensive. I could have supported myself at Berkeley it was so cheap just by having a little part-time job. And I did want to go -- I thought I wanted to go to Wellesley, and my father insisted that if I was going to come East I had to go to Radcliffe. My father was a Harvard graduate, and I refused to do that, I refused to apply to Radcliffe and so that was a complete stalemate. In retrospect, I probably would have liked Radcliffe better than Wellesley, but given the stories I've heard from women who went to Radcliffe at that time, I think I was really well-off not being there. My mother went to Berkeley, so it was -- my aunt went to Berkeley, so there was a family tradition of going to Berkeley, and it was a great place to go. 
+
+INTERVIEWER: And you started as a physics major and then switched to math? 
+
+LISKOV: Yes, I thought initially I would be a physics major, but I think that was quite a common thing for people to think if they were interested in -- you know, physics was considered to be the hardest major, and so, you know, you sort of think about that. But I realized that my strengths were more in math than in physics, and so I switched to math, but I did a physics minor. 
+
+INTERVIEWER: After you graduated, can you tell me a little bit about the work you did at MITRE? 
+
+LISKOV: So, what happened was when I graduated with a math degree, I thought about going to graduate school, but I decided that I wasn't really ready because I wasn't that serious about working hard in my studies. And so I decided to get a job. And I looked for a job as a math major -- I mean a math -- doing math work, and I couldn't find an interesting job. I got one that essentially sounded like I was going to be plotting graphs, but I was able to get a job as a programmer. So that was my job at MITRE. 
+
+I started to work -- and they just took a flyer, because after all, I had no background. And they were doing that a lot in those days because there were very few people who had a background, so they would hire people without the background whom they thought might be able to do well. There were actually a significant number of women working as programmers at that time. At MITRE I was just a programmer. I used Fortran, which was sort of the main language at the time. And I discovered that I was -- you know, had a talent and an interest in programming, which I had known nothing about ahead of time. But I didn't do anything -- there was no specific project I worked on at MITRE that was of any particular interest, I was just working, doing -- they would give me an assignment, I would do the assignment, but I was interested in what I was doing. 
+
+INTERVIEWER: Can you talk a little bit about what the field of computer science was like at that time -- we're talking about the, say, mid- to- late 60s? 
+
+LISKOV: No, we're talking about 1961 -- that's when I graduated from Berkeley. So, it was pretty primitive compared to what is known -- people didn't know that much. For example, nowadays all our undergraduates understand about how to write recursive programs, programs that call themselves, but at that time recursion was sort of a new thing and people were just sort of talking about this, here's this idea, you know. And the programming languages that existed were pretty unpowerful compared to what we have today. So it was a field in its infancy, and that was one of the things that was so wonderful for me was to discover this field that I had a great talent for that was very young because that meant there was so much that was there to be done. 
+
+INTERVIEWER: So, how did you come to decide to return to graduate school? 
+
+LISKOV: Well, I only worked at MITRE for a year and then I went to Harvard. I switched jobs and I worked at Harvard on their language translation project, and that was actually a very interesting job. There I was programming in machine language, so that's the very low level language that the hardware supports directly, which I think was extremely useful for me in my later career, because it meant that I really understood what that machine was doing. And my job there was to maintain a huge program, so I think that it also probably led to my later interest in how to structure programs properly because it's quite a job to try and maintain a whole bunch of code that somebody else wrote. 
+
+Some time during that year when I was working at Harvard, I decided that it was time to go back to school because I felt like I wasn't learning fast enough. So I learned a lot -- you know, I started out I knew nothing about programming, at MITRE I learned about basically how to program and Fortran, and then at Harvard -- but I was still a programmer, so I wasn't doing the research, I was just doing the maintenance of the program that somebody else would explain to me they had this error or that error. And so I felt like I'd learned as much as I could from those jobs and if I continue as a programmer -- not that I really thought this one through, but it was clear if I continued as a programmer, it would just be more of the same. So I decided to go back to school. 
+
+INTERVIEWER: How did you wind up at Stanford? 
+
+LISKOV: I only applied to -- I applied to Harvard and Stanford -- I would never have considered applying to MIT, because to me it seemed like a place that women didn't go. I also applied to Berkeley in statistics -- I don't think they necessarily had -- I didn't know that they had computer science at Berkeley. But I came from California and I thought it was time to go home, so that was really the reason why I chose Stanford over Harvard. 
+
+INTERVIEWER: Did harvard accept you? As the first woman to earn a PhD in computer science in the country, what was your experience like in graduate school as a woman studying computer science? 
+
+LISKOV: Okay, so first of all, it's not entirely clear to me that I am the first woman to earn a PhD in computer science. 
+
+INTERVIEWER: Everybody says you are. 
+
+LISKOV: I know, but first of all you have to qualify that to say it's from a Computer Science Department, because I'm sure that there were women who got PhDs in departments that weren't computer science where the thesis was computer science. And secondly, I don't think there's any rigorous research backing this, it's just that some women at Stanford in the 80s did a little study in they concluded this. Okay, nevertheless, whether I was the first or not, there's no doubt that I was very early. And I went to Stanford and the class was very small -- it wasn't actually a department yet, it was just a program, and I didn't feel anything in particular. I mean I felt pretty welcomed. I guess it was a new field, it didn't have a long tradition of it should have been this way or that way. 
+
+As you know, often problems with discrimination set in at a later stage anyway, but I felt that the faculty was supportive and the students were welcoming. I remember we all took a course on compilers together and we used to come in every night and run the machine as a group. We didn't really have a tradition like they have at MIT of people working in teams on projects, but we did as a team sort of organize the use of that computer so that we could actually get our projects done. In those days the way you used computers was through batch processing -- you would submit a job on punched cards, and the turnaround could be extremely slow. You'd have to submit the job along with some test cases, and it might be a day or two before you got the answers back. And so then it was a long delay and it was hard to get a project done. What I tell my students is that there were advantages to that, as well as disadvantages. The advantage was you had to really think carefully about what you wanted to accomplish in that run because you weren't going to have that many shots at it, and sometimes I think students waste a lot of time because they haven't thought through what they're trying to accomplish and so they're just sort of spinning their wheels. But the disadvantage was obvious, and so we used to take over the machine at night, so we could run our jobs one after another and get fast turnaround. 
+
+So I felt Okay at Stanford. I was in the first class that took the qualifying exams, there were seven of us, and four of us passed, and I was, of course, the only woman. I was the only woman in my class. There was a woman in the year after me, I think there were two of them, one of whom finished the program. She -- this is Susan Graham who became a professor at Berkeley. So there was a small -- the percentages may not have been any worse than they are today because the numbers were very small. 
+
+INTERVIEWER: Yeah, that's disheartening. And then you returned briefly to MITRE. 
+
+LISKOV: I was actually at MITRE for four years. So, I got my PhD in artificial intelligence -- that was more or less an accident, at least it seemed to me it was kind of accidental. It had to do with I met my adviser shortly after I arrived at Stanford and I asked him for support, because I went to Stanford without any sort of support. And I realized partway through my PhD that I really would rather be in the systems area. But I decided to stick to artificial intelligence, because that way I could get my thesis done and finish up. But I definitely had in mind that I was going to switch when I finished my PhD. 
+
+I didn't have job offers. So, you know, women were not -- so, at this point now I probably am starting to reach the discrimination -- the old boys network was in full swing, that's how people got jobs, so I had one offer from Hayward State, but that was a nowhere place and I didn't do that. Also, I had met my husband by then and he lived in the East, so it seemed good to come East. And so, I actually went to MIT and they offered me a job as a research associate, which I was very smart to turn down because that, you know, put you on a non-tenure track I probably would never have gotten off of. So I went to MITRE where I worked before so they knew me, and got a job as a researcher. 
+
+INTERVIEWER: And tell me a little about the work you did at MITRE doing those four years. 
+
+LISKOV: So, I started off with a project on designing and implementing a hardware architecture using what was called micro programming. So the idea was that the hardware was a very simple not very powerful machine and it came along with some read-only memory. And then using this -- the simple instructions that the hardware provided together with the read-only memory, you would write a program that would produce a machine instruction set that was more like what conventional machines at the time were providing. And the research question here was, was this a viable way of doing things? And so my project was to design and produce such a machine. And this was called the Venus machine, and I did it on something called the Interdata 3. 
+
+And then after I finished that project, the next question was well, is this architecture that we implemented good for anything? And so I went on to design and implement the Venus Operating System, which was a small multiprogramming system, supporting 16 users. And at the end of that project I wrote a paper on the Venus Operating System, I submitted it to the top Systems Conference, and that was actually the reason that I was eventually invited to apply to MIT. Meanwhile, I had gone on to do work in program methodology and that was -- the program methodology work together with the systems work was what led to the work that I did later that led to the Turing Award. 
+
+INTERVIEWER: So, tell me about the story of how you got to MIT. 
+
+LISKOV: So I submitted this paper to the top Systems Conference and it was accepted, it was one of the prize papers. And the person who was the chair of my session at SOSP -- this is the Symposium on Operating System Principles -- was Jerry Saltzer, who was a professor at MIT. And so, Jerry -- I forget whether he, maybe he invited me to apply or something -- at any rate, I was invited to apply. And what had really happened was the Title 9 had passed and Jerry Wiesner was president, and Jerry was really serious about trying to do something to improve the number of women. I believe when I came to MIT there were only ten professors, ten women professors, so it was really small. And there were actually quite a number of very distinguished women who were lecturers who were then, you know, became professors at about that time. So, that was what happened, the climate had changed. 
+
+INTERVIEWER: So, what drew you to come to MIT and leave MITRE to do academia? 
+
+LISKOV: I think I'd always wanted to go to a faculty position, and I hadn't really been thinking about it very specifically, but when the opportunity came there was no question that I was going to leave. I was doing research at MITRE, and if I had stayed at MITRE, I would have been more and more defining what I was doing, but you don't have the same kind of freedom at a company as you do at a university. I don't think I really knew though, I think I just had always thought I would like to do this. And so when the opportunity arose I did it. I also was invited to apply to Berkeley, but I told them that there was no sense in pursuing it, because my husband was in the East and there wasn't -- it turned out for him there wasn't really a good -- he worked for Raytheon and there was -- he didn't feel that there was a comparable position at that time in the Bay area, or not in the Berkeley -- it probably would have been okay at Stanford because there was more going on down the Peninsula. Anyway, so I told Berkeley that we shouldn't proceed with that. So, MIT was the only place I interviewed at. 
+
+INTERVIEWER: Can you tell me a little -- what your first impressions were of MIT -- the students and your colleagues and the environment? 
+
+LISKOV: The first year was very difficult. The students were -- many of them I would say were -- they were definitely testing me. The course I was assigned to teach was one I had no background in. The way I -- it was a course on hardware, and although I had designed that machine architecture, I really didn't know much about electrical engineering. The way I survived was there was a graduate student who was also teaching this course and he helped me and I was able to stay a week or two ahead of the kids. The kids, however, were definitely, I would say definitely not that happy having a woman, and they were trying to -- many of them were trying to ask me questions they were hoping I couldn't answer. And, you know, the way they would do it is they would sort of go off-topic a bit and, you know, try to sort of extend the conversation. It took me a while to understand how to handle that. I had the usual things of people saying are you a secretary? As far as the colleagues were concerned I think that was better, but I was put -- there was pressure put on me to go back and work in AI, even though I came in basically because of my work on systems, and so I had to resist that pressure. 
+
+INTERVIEWER: Why was there pressure to have you work on AI? 
+
+LISKOV: They hired another person at the same time, Mike Schroeder, and so maybe they thought he was the systems person. The hiring is done by the department, but you do your research in the lab, so maybe the department was more enthusiastic about the hire than the lab was. At the time, you know, to this day I don't know why. I can say that Lou Smullin was the department chair, Bob Fano was the head for Computer Science, and Bob in particular I think decided to go ahead and do this. But that was the department, and as far as the lab was concerned, that was a different management structure or maybe they just had trouble with offices, I really don't know what was going on. Maybe they felt they had a -- they needed somebody in AI, but -- if I had paid any attention to this it would have been really bad, but I didn't pay -- just like I never paid attention to people who thought I shouldn't major in math, you know, I didn't pay any attention to this, I just kept doing what I thought was interesting. 
+
+INTERVIEWER: And after the first year did things get better? 
+
+LISKOV: Oh, yeah, they got a lot better. First of all I managed to get myself moved from the AI floor to the fifth floor where the -- the fifth floor was a systems floor. I can't remember the exact chronology. Jack Dennis was very helpful -- he helped me move my office, he was very supportive, and so then I wasn't any longer, I didn't any longer feel like I was in this position where they wanted me to work on something I didn't want to work on, by then I knew how to handle the students. I was still teaching the same course, but, of course, by then I had taught it before so I knew how to handle it. So, I actually think the first year is very hard for everybody on the faculty, maybe it was particularly difficult for me, but I don't think that's such an unusual experience. 
+
+INTERVIEWER: How have you seen, since we're talking about the student body and their reaction, how have you seen that change over the years that you've been here? 
+
+LISKOV: Well, it's been a phenomenal change. So, when I arrived -- I don't know what the percentages were but they were very small for women. My husband is an MIT grad, he graduated in 1960. I think he says there were 16 women in his class. It was probably a little bit better when I arrived, this is now 1972, but it was still very small numbers. And then in the 1980s the percentage of women started to go up, and at some point in the 1980s, I recall thinking that the place began to feel more like a normal place because the percentage of women was enough that you didn't feel like you were in this all male conclave. It took quite a long time though before those women were showing up in the computer science classes, but just having them on campus was already making a difference. And, of course, now there's a lot -- almost half of students are women, and in Computer Science the last time I checked it was around 30 percent. But that's a substantial number and it changes the way the classes feel. It just has an impact that people talk about this. 
+
+INTERVIEWER: Aside from the greater acceptance of women and probably minorities at the same time that you've seen over the time you've been here, have you seen changes in the culture of the institution? 
+
+LISKOV: Well, I think what I'm talking about is a change in the culture. But, of course, as a faculty member you don't necessarily understand the undergraduate culture completely, but just having more women changes the culture, especially when they get to a large enough number that a more feminine way of doing things is not -- begins to have an impact. MIT is -- I mean I think it's a great place, and what I really like is the fact that the undergraduates work and they value learning and it's not considered bad to do well in your courses, you know, you don't have to play games about that. And, you know, in the classroom it's very rewarding to teach them because they are really interested in learning, and that part has not changed, but perhaps it's a little bit nicer place now that there's more diversity in the undergraduate population. 
+
+INTERVIEWER: How important is teaching to you? 
+
+LISKOV: My first love is research. So teaching has never been the thing I liked the best. I do think though teaching is very valuable to a researcher because when you teach you have to really get your thoughts in order, so it's very good training for breaking things down first principles and coming up with a very logical way of presenting things, and so I find that has been very valuable to me. 
+
+INTERVIEWER: And you also, you collaborate with students a lot in your research. 
+
+LISKOV: Absolutely, I collaborate with students. 
+
+INTERVIEWER: Do they -- do the students at MIT add to your -- do they make a contribution in that collaboration? 
+
+LISKOV: Oh, the students are absolutely very important collaborators. I primarily work with students. I've done some collaboration with colleagues, but my main mode of doing research has been with my students. And what happens with students is that they come in -- I'm talking about graduate students now -- and they have a lot to learn, but before very long they start to contribute, and the very best ones, you know, by the time they leave they are generators of ideas and they are completely equal collaborators. I mean that's what the graduate education is about, but absolutely they are very valuable collaborators. I usually go into mourning when my students leave because you get so used to working with them and then all of a sudden they're gone, but that's how it is. 
+
+INTERVIEWER: I'd like to talk a little bit about your areas of interest. So why don't we start with programming methodology. 
+
+LISKOV: So, program methodology is something I started working on when I was still at MITRE. And what happened was that the -- MITRE does primarily research for the government on government contracts and the government was very concerned about what was called the software crisis where there was a concern that we just didn't know how to build the software that we needed to run the systems that people had in mind. And so they gave MITRE a contract to look into this and I was assigned to work on that. And so, I started to read all the papers and I was thinking about my own experience. It turned out that in the Venus Operating System I had actually invented a program methodology without thinking about it. I had to develop a way of organizing that system just because I needed something to sort of keep the whole thing in order, and so that was -- I sort of already had an interest in it maybe without having thought about it. And so, I did a lot of reading about program methodology and I was really interested in the question of -- in all the questions that it raises. I was primarily in the beginning interested in what is the structure of software. 
+
+So, I used to think, I still think that the people in hardware have it a lot easier because when you build machines you have obvious components that are connected together by wires, say, and this forces you to a kind of natural modularity where each component does whatever it's doing and it provides a very simple way of interacting with the rest of the world because the connections have to be simple. But software had no such natural constraints, and so what I was interested in was trying to find the constraints for software that enabled us to end up with a system that you could actually understand. And so -- and that's a major issue in program methodology, so that was, in fact, one of the main things that I was working on starting in MITRE and then when I came to MIT. 
+
+The other thing that's going on in program methodology is the question of how do you design, and that was something that I got very interested in later in my work at MIT. 
+
+INTERVIEWER: And how about distributed computing? 
+
+LISKOV: That was much later, so that was after I had finished my work on the CLU programming language and at that point the internet existed, people were sending email, but they had absolutely no idea how to build programs that ran on distributed collections of machines, and so, I got interested in that question, how do I write those programs. 
+
+INTERVIEWER: Okay, so why don't we step back and tell me a little bit about CLU. 
+
+LISKOV: So what happened was I came to MIT, I was very interested in program methodology and I was trying to think about how -- and I had ideas about how programs ought to be organized, and so did other people, and I felt that although the papers that people wrote about these things made a lot of sense, when you tried to apply their ideas to a new problem it was very unclear how to go about it. 
+
+And so I was thinking about what can we do about this, and I invented this idea of abstract data types, which took my ideas about modularity and moved them into the programming domain in a way that turned out to be much more helpful for programmers because then you could think about putting these ideas into a programming language, and programmers are very influenced by programming languages -- they use them as tools and they understand the concepts that are in them. And so, moving that idea from this abstract thing to something that could be in a programming language made a big difference in how easy it was for other people to understand it. 
+
+So first I got this idea of abstract data types, that was in my first year at MIT, 1972 to '73. And then in 1973, in the fall of 1973, I decided to actually take the next step and really a design and implement a programming language that incorporated this idea, and that was the language called CLU, C-L-U, which is the first three letters of cluster, and cluster was the linguistic mechanism in the programming language that allowed you to implement abstract data types. 
+
+INTERVIEWER: Now, as a non-computer scientist, do I understand this correctly that what CLU allows you to do is to sort of move chunks of programming language around? Is that a real kind of crass way, so that -- maybe I'm not even explaining right -- that your -- you don't need to get into the code to do everything. 
+
+LISKOV: So, the basic technique we have for managing the complexity of software is modularity, and modularity means that you divide your program up into pieces. Each piece has a hidden inside and an interface, and the interface you hope is relatively simple, and then inside there might be a very complicated way of implementing that interface. And if you do it right, then you can reason about each, the correctness of each module independently. If you have to change the implementation of a module, you can do this and not affect any of the other code in the system. So if you imagine a system with a million lines of code but it's divided into modules, you know, when you change your module it might be just 1 percent of the code in the system, and you're able to do something there, and the rest of the 99 percent of the code is not affected by that change. So that was really the idea I was working on, and abstract data types are a way of getting more effective modules where you have an interface that's a little bit more complicated than what you would have with simple sub-routines, but still has this idea of a simple interface relative to a complicated implementation so that you get a lot of benefit out of the hiding of the implementation. 
+
+INTERVIEWER: So, CLU itself did not get into widespread use as a language. 
+
+LISKOV: That's true. Actually, I made an explicit decision around about 1970 or '69 to not try to pursue the commercialization of CLU. At that time it was very hard to get an academic language into use because you really had to get a company to adopt it, and I decided to go on and do research on distributed systems instead. Today, if I had done that research today, I could have put it out there as freeware, and that way it could -- there were, by the way, a lot of people who used CLU. We used to support them, there were a couple hundred groups around the world doing programming in CLU, but it never became a commercial success. Today, you know, it might have been different, because you put stuff out as freeware and people adopt it and it's just a different world. 
+
+INTERVIEWER: Even though it did not get into widespread use, can you tell me about the fundamentals of CLU that did wind up being carried forward in other languages? 
+
+LISKOV: So, the main thing that CLU had in it was the support for abstract data type, data abstraction. Data abstraction is the most important part of object-oriented programming, and so the object-oriented languages like Java and C# have mechanisms in there. They aren't the same as the mechanisms CLU had, but they're very closely aligned. 
+
+CLU also had a number of other important things that were sort of ahead of their time. It had what was called a support for polymorphism, which means that I can build, say, something that works for many different types, so I could define a set as an abstract type, and then it could be used as a set of integers or a set of reals or a set of strings. So that provides you with a more powerful abstraction mechanism. All of CLU was -- the most important things that were going on in CLU was support for abstraction. 
+
+It also had something called iteration abstraction, iterators. So this is a way of making it easy to move over a collection and look at every element without destroying the collection. And it had support for exception handling, which is a way of increasing the applicability of a module. And if you look at the modern programing language, especially Java and C#, what you'll see is a great similarity to some of the stuff that was in CLU. 
+
+INTERVIEWER: I think most of the work that you've done has been part of the programming methodology group here? 
+
+LISKOV: That was what I named my group. 
+
+INTERVIEWER: Right. Can you tell me how you started that group and--. 
+
+LISKOV: So, I think I started that group in 1973. What happened was three new graduate students showed up and they wanted to work with me, and these were the three students who became with me, the main designers of CLU. And I don't know when we decided to call the group that, but it was probably at about that time -- every group within the lab had a name, so I had to choose a name for my group, and then I just stuck with the name, even though what the group was working on shifted over the years. 
+
+INTERVIEWER: Let's talk a little bit about some of the things that came out of the lab, Thor. 
+
+LISKOV: So, after I finished the work on CLU, which took most of the 70s, then I switched to distributed systems and worked on a project called Argus. And what Argus was was another programming language that enabled the development of distributed applications -- applications that ran on many different machines. And Argus was also an object-oriented language like CLU, but it provided support for concurrency and support for distribution. It was another language that was ahead of its time. 
+
+Also, at the time that I was working on Argus, I got very interested in distributed computing in general, and I developed a, among other things with one of my students, a system called Viewstamped Replication, which was a way of using collections of computers to provide better reliability and availability for information that was stored at the computers. 
+
+Then in the 90s I worked on the Thor project, which was an object-oriented database. So the idea was that rather than storing stuff in a file or using a conventional database, why not just take the objects your program was using and put them away -- so it's like you make the persistent storage just be part of the programming model, so that was what Thor was all about. And then late in the 90s, I had one student Miguel Castro who worked on Byzantine fault tolerance, which was a replication technique that survived malicious attacks. And I had another student, Andrew Myers, who got interested in information flow control, which is a way of handling -- making better security for online information. And so -- and there you can see what I'm talking about, the students become real collaborators. 
+
+INTERVIEWER: You didn't mention Jif? 
+
+LISKOV: Jif is the language that Andrew Myers developed, it stands for Java information flow. The work that Andrew did involved extending the programming language with the type system in the programming language to express some of the information flow ideas, and he called that extended Java, Jif. 
+
+INTERVIEWER: And these were concepts that then became adopted -- adopted through mainstream--. 
+
+LISKOV: No, I wouldn't say that. I would say that these have been influential in the research community, so the work on Byzantine fault tolerance has spawned a whole community of researchers who are trying to improve those techniques and so forth. The work on Jif and information flow control has also led to a lot of research, some of it extending the work that Andrew did, and then more recently work that takes a different approach but still is based on this idea. Andrew's idea was that up to the point where he did this work, information flow control was primarily used in military systems where there was the idea that there was top secret and there was secret, and, for example, if you had top secret information, you wanted to make sure it never ended up in something with a lower classification category, and Andrew's insight was that you could get rid of this sort of monolithic structure and replace it with something where the individual users could control their own information, and that idea has then led to a lot of research and other techniques for doing that. But I don't think the -- it takes -- there's quite a lag between the time that research gets done and when it shows up in software products. 
+
+INTERVIEWER: What kind of -- in the field of computer science, which seems to change so quickly, what kind of lag time is there? 
+
+LISKOV: Well, it took -- you know, CLU was finished around 1980 and Java appeared in the mid-'90s. I mean mind you, the ideas of data abstraction were in -- you see C++ has a certain kind of module structure, so there were things that existed before that. But before it got into really this is how we're going to do it, that was 15 years, and Java's actually a descendant of two different streams of research, the CLU work and then also the Smalltalk work, which is another different way of approaching similar problems. The work on Viewstamped replication that was done in the late '80s, there are now systems that use this kind of technique, but they didn't appear until sometime after 2000. So, you know, we're talking about a lag of 15 years or so. 
+
+INTERVIEWER: Do you see that narrowing at all? 
+
+LISKOV: I wouldn't be surprised if it narrows. What happens is that companies will adopt techniques when they see there's a real need for them, and typically doing things better -- I mean there's a lot of work involved in designing programming language or adopting some of these distributed computing techniques, there's a cost to them because the systems are more complicated and things might take a little longer to do and so they have to be convinced that it's necessary. But once upon a time people thought encryption wasn't necessary, so Ron Rivest did this wonderful work on public-key encryption, but for quite a long period of time it was more a theoretical interest than it was a practical interest, although in the research community you could see that, you know, the day was coming. So, it had to get to the point where the companies could see that they really needed to be careful before they would really put these techniques into systems. 
+
+INTERVIEWER: A couple more acronyms to ask about, PolyJ? 
+
+LISKOV: PolyJ was a language we developed as part of Thor, and -- you know I can't remember why -- oh, I know what PolyJ was. What happened was Java came out -- it wasn't part of Thor -- Java came out and it didn't have any polymorphism. Remember, I said polymorphism was this technique for generalizing abstractions so that you could build a general set rather than a set of integers, and Andrew and I were really annoyed by this. So we designed PolyJ which was an extension of Java at supported polymorphism. So that was just like a little side project that we took on. 
+
+INTERVIEWER: And then I have IRIS. 
+
+LISKOV: IRIS was a project in peer-to-peer computing, and this was a very large NSF collaborative grant that involved researchers at MIT, Berkeley -- I forget, a whole bunch of schools. The person to put it all together was actually Frans Kaashoek, who's a professor here, and I was a part of that project, but I was not the main person who was pushing it forward. 
+
+INTERVIEWER: Can you describe a little bit about what parts of the work that you've done have then translated into fundamentals in the way networking is done, in the way search engines are done? 
+
+LISKOV: So, I think that really the work that I have done has had much more to do with how programs are organized, and so to that extent it affects everything because all these big commercial systems are based on ideas about modularity that sort of came out of that early work that I did and others did as well, and so to that extent affects everything. And when my husband was -- after I got the Turing Award my husband was online every day looking at what was happening, and one thing he discovered was a quote from somebody that said well, what did she get that award for, everybody knows that anyway. But I mean actually, that was really a statement about how the world had changed, because when I did the work nobody knew anything about this, but the work has had such a profound impact that nowadays it's how people think about systems. 
+
+INTERVIEWER: That quote must have come from some young'un. 
+
+LISKOV: Oh, yeah, absolutely. And you know there's a lot of nonsense on the internet and so forth, but I sort of thought that was really pretty amusing, and the same thing is true for my students, you know, they don't really know about a time before. I think it's absolutely amazing. I wasn't thinking about it and I was just doing my research and not paying much attention and yet the world really had changed and that was amazing. 
+
+INTERVIEWER: I did one -- I remember doing a Fortran thing in school, and I think that it probably is beyond current students' comprehension how primitive that was and how easily you could make a mistake with punch cards and how long it took to get information. 
+
+LISKOV: But programming is still difficult to teach, and the languages like Java and C# are not necessarily the right ones for a first course, they're sort of too much of a barrier to entry. So it's not like there's not a lot more work left to do. 
+
+INTERVIEWER: What makes it so difficult to teach, do you think? 
+
+LISKOV: I think that -- what's really interesting about computer science is computational thinking, and it's a different way of thinking. You think in terms of -- it's more like cooking in a way. You think about let's accomplish this job by breaking it down into steps and organizing the process so that in the end you carry it out. That's quite different from what you do in mathematics, it's very different from other sciences, it's a very important basic way of thinking. However, to teach the students, you have to embody this in programs, because they have to write little programs that sort of get the idea across, and the question is what programming language do you use for that. And so that's what I was really talking about. It's not clear that these programming languages that are perhaps the best ones for building big systems are necessarily the ones you want to teach in a first year course where you're trying to get these basic principles across. 
+
+INTERVIEWER: Do you think that way of thinking, are there students who just get it right away, like their sort of brains are wired to do it and others who need to learn it, or are there some who can't learn it? 
+
+LISKOV: Probably all of the above, yes. 
+
+INTERVIEWER: I probably would be one who couldn't learn it. 
+
+LISKOV: Well, if you programed in Fortran and you were successful in doing that you probably did get it to some extent. 
+
+INTERVIEWER: No, I didn't get it. I mean it was one of those things where there were instructions -- to this day I don't know what the point of the exercise was because I just followed directions, I didn't understand what I was doing. 
+
+LISKOV: So I think that it's like many fields of endeavor, you know, some people are good at it, some people don't get it, they have other strengths. I think one of the major things a student is doing during their undergraduate years is trying to figure out what direction they should go in, and I always tell my students that they need to pay a lot of attention to what they're good at -- there's just no sense in banging your head against a wall. So you want to look at something that's interesting and also that you're good at. 
+
+INTERVIEWER: So, in terms of the things that you're currently working on, do you want to explain about your interest in peer-to-peer computing and what you're currently--. 
+
+LISKOV: So I'm not really working on peer-to-peer computing at this point. Peer-to-peer computing is a -- I think it's mostly an interesting way of organizing distributed systems, and so it's another one in the set of techniques that everybody that works in that area sort of has to understand. And so I use the basic ideas in peer-to-peer computing frequently when I'm thinking about something else. It's just a way, one of the kinds of solutions I'll look at. What I've been working on most recently is online storage, and I'm very interested in -- you can see this coming that all our information will be available online and there's a whole bunch of technical issues that arise when you start to think about both online storage and online computations, which is the other thing that's happened, Cloud computing, and I've been particularly interested in security issues. So, on the one hand what is it that guarantees that the information you put online won't be lost, and will be available when you want it, so that's been one course of research where a lot of the work I've done on replication techniques has come in. And nowadays I'm more interested in how do you know your confidential information won't be exposed and what techniques can we provide to make it easier to build systems that will be able to safeguard the information. 
+
+INTERVIEWER: And I would assume that that kind of research has applicability to medical records? 
+
+LISKOV: Absolutely, yeah, that's a very good example. 
+
+INTERVIEWER: Okay. Can you tell me a little bit about some of the consulting work you've done for companies? 
+
+LISKOV: So, I haven't done any consulting work recently, I got very tired of it, and honestly, it's been a long time. So I've tended -- probably like many women to focus on my job at MIT. And I haven't -- there have been many periods during my career when I have not taken advantage of the fact that I could've consulted one day a week. There have been times when I've done a lot of consulting. So, for example, the government during the -- must have been early '80s -- decided that they wanted a new programming language designed, this turned into the language called Ada, and I worked with one of the teams that was competing for that contract, so I did a lot of consulting at that time. But mostly I always felt that consulting work was sort of far away from what I really wanted to work on and a sort of a distraction and I have always tried to not work too much and to have some free time. Many of my colleagues fit in that day a week by just working essentially an extra day a week and I wasn't interested in doing that, so I haven't done that much consulting. 
+
+INTERVIEWER: What about you did some stuff for Bolt, Beranek and Newman? 
+
+LISKOV: Yeah, but it's hard for me to remember. 
+
+INTERVIEWER: Long time ago. 
+
+LISKOV: Yeah. 
+
+INTERVIEWER: Okay. Is there any advantage you see to doing that sort of consulting work? 
+
+LISKOV: Yeah. Some people manage to use it in a very effective way. You know, for one thing it gives you some insight into what problems industry's facing, so that's good. And then sometimes it can be a way of doing technology transfer, you know, if you end up with a collaboration with people in industry, they might be more interested in adopting your ideas. So, yeah, I think some -- I have never felt that I did a very effective job of taking advantage of consulting opportunities, but I do think some of my colleagues do. 
+
+INTERVIEWER: Well, it just sounds like you were more interested in the work you were doing in the lab. 
+
+LISKOV: Yes, that's definitely true. And I think I've -- the way I manage to keep from being overwhelmed is by really focusing, so I've been just very focused. 
+
+INTERVIEWER: So, a lot of the work you've done has really wound up improving the way people use computers and computer science to get things done, and has really sort of been in the public interest. Is that something that was kind of a mission that you have or was it just sort of a happy by-product of what you were interested in? 
+
+LISKOV: I certainly was not thinking of the public interest. I was just really very interested in this question of how can we be more effective at building programs, and I didn't think about it as oh, gee, in the future -- I mean certainly, you know, when you're doing that kind of work you're thinking about the future because you are thinking about the programs that would be built in the future and how this technology could enable that, but I didn't have that as a specific goal. I didn't start by saying oh, it's in the public interest to have these better programs, so let me work on that problem. It was really more this is a technically very compelling problem. 
+
+INTERVIEWER: What do you think makes a problem interesting for you? 
+
+LISKOV: It has to be technically compelling, it has to be well-motivated. So, I do think quite a bit of the research that people do is derivative -- it's, you know, it's fixing up a little corner of this, it's not particularly well-motivated. So, even though I wasn't thinking about the public interest, this work that I did on program methodology was clearly very well-motivated, it was solving a very important problem, it wasn't a problem that had already been solved and all I was doing was fixing up a little bit of it. And the same thing was true when I moved into distributed computing. You know, again, it was a very important problem, you could see that the internet was coming and yet nobody really knew how to build those programs. So, it's some combination of here's a problem that I think is going to be important and furthermore, it hasn't really been solved, and then I start to think about what the technical issues are. 
+
+INTERVIEWER: Can you talk a little bit more about how you go about tackling a problem? 
+
+LISKOV: I think about it, and I work with my students and we talk about it. There's a creative process here, but creativity comes from hard work, so you aren't going to be able to come up with a new solution to something if you haven't really been thinking about that something. On the other hand, creativity is something that just happens. So, if I think about the work on data abstraction that sort of was the first early thing, I was thinking about that problem really hard, I was trying to figure out how could I express these ideas in a way that would make sense to programmers. And looking back at the literature and stuff that was happening at the time, you could kind of see that idea waiting there for somebody to discover, but, you know, I discovered it and I don't know where that came from. But I do think that advances are made from a combination of creativity and hard work. 
+
+I also think that intellectual honesty is very important, and what I'm talking about is being honest with yourself. So, understanding when you understand and not kidding yourself into thinking you understand when you don't understand, and I think that stood me in very good stead, and I also think that's probably something I've been able to teach my students. 
+
+INTERVIEWER: You've been quite prolific in your publications. Can you talk a little bit about what you think the value of writing articles and books is and how that fits into the importance of publishing in terms of MIT? 
+
+LISKOV: Well, if you don't publish your research than what is it good for? I mean if I worked in a company maybe all I would have to do is produce a system that somebody could use, but when I work in research I have to describe what I've done otherwise nobody knows about it and so in some sense it's like I didn't do it. So publishing has got to be a very fundamental part of doing research. 
+
+Now, at MIT I also published a book that was a textbook for a course, so that's a different -- there what you're hoping for is an educational impact on other places so it's a little bit different. 
+
+INTERVIEWER: Is it something that you enjoy? 
+
+LISKOV: Writing? 
+
+INTERVIEWER: Yes. 
+
+LISKOV: Yeah, actually I do. Although, one of the reasons -- when I was young and I went into math and sciences I thought well, I won't have to write and I won't have to -- and I also think I thought that you wouldn't have a lot of interactions with people, but it turned out both of those were totally wrong. And maybe, you know, if young women understood how interactive science and engineering are, they might be more inclined to go into it. 
+
+INTERVIEWER: What about professional organizations. What do you see the value of joining professional organizations? 
+
+LISKOV: So, this is a big problem for professional organizations these days. Once upon a time they were extremely important because they were the vehicle by which -- they still are the vehicle by which publications happen. But, of course, nowadays people are talking about just putting stuff on the web. 
+
+The trouble with the web is there's a lot of garbage out there. So professional organizations and also commercial publishers still provide value added by the vetting process. So at least the stuff you get out of a journal or conference proceedings, you know has been through some process where some people spent some time trying to decide whether this work was worthwhile. So that at least saves you some effort and gives you a little bit of a hint of whether it's worth looking at. But, of course, even that may be going away because some people are setting up informal ways of doing the same thing. And all these -- all this work anyway of vetting is coming from -- is not coming from the organization, it's coming from volunteer activities on behalf of researchers. 
+
+INTERVIEWER: You've worked on a number of advisory committees -- computer science and telecommunication, Board of National Research Council and Computer and Information Science and Engineering Advisory Council, the NSF. Can you talk a little about that work and the value of that work? 
+
+LISKOV: Well, those two jobs, those were very different. So, the CISE, C-I-S-E, the computer, science information, whatever it was called, that's an advisory committee to a particular division of NSF, where what the board does is they meet with NSF, I think it was once a year, and discuss the programs that that division is thinking to provide funding for. And so there you have a very direct impact on future directions in computer science because you have an impact on what directions are -- where money is going to move. 
+
+The CSTB is at a larger scale, so it isn't advisory to any particular organization, instead it's working at the level of the Federal government, and they do studies of particular issues, so they might do a study about computer security or a study about education. And the Board itself partly staffs these studies and partly decides which studies are worth doing. So again, you are having influence on what future research is going to be but at a larger scale than just a single agency. 
+
+INTERVIEWER: Okay. And if we could talk for a minute about tremendous list of awards that you've won, including the Turing Award. How do you feel about winning awards? 
+
+LISKOV: It's very nice. 
+
+INTERVIEWER: Do they serve a purpose in terms of recognizing, do you think they're--? 
+
+LISKOV: I think they do. You know, that it is a stamp of approval and it's nice to get that. But nevertheless, you know, what really mattered was the work and these awards come after the fact, so they recognize stuff, decisions that you made much earlier on. So, you know, they're very nice, and maybe -- are they important for the field, maybe they're important for the field because they pick out things that seem to have been important for the field. But on a personal level, you know, it's very nice to get the recognition, but it doesn't have much impact on -- with the Turing Award is having a big impact because I'm doing a lot of traveling, but they don't have much impact on what you decide is your next research project. 
+
+INTERVIEWER: What kind of -- were you surprised when you won--? 
+
+LISKOV: Yes, I was. 
+
+INTERVIEWER: And what kind of traveling are you now doing? 
+
+LISKOV: Well, what happens when you get an award like this, unlike all the other ones which really nobody pays much attention to, is I've gotten lots and lots and lots of requests to come here, there, and everywhere to do, you know, to give a talk or something like that. And I decided that I probably should accept lots of the these because it's one shot, you know, it'll all be over in another 12 months probably, so might as well do it. And so I've been doing a lot of traveling, I'll be doing a lot more in the spring, and I think that some of it will spill over to the fall, then I suspect it will calm down. 
+
+INTERVIEWER: And you never know where there's the funding source out there. 
+
+LISKOV: Well, yeah, but I don't know that -- it's true, that's true, but that's not the major motivation. 
+
+INTERVIEWER: Have you seen -- you've seen the computer science field change over the years that you've worked on it. Can you articulate how it's different now than it was in the '60s? 
+
+LISKOV: When I started working in computer science we didn't know very much. And so we knew a little and there was just an awful lot to be done. And a lot of this was really very fundamental work because you had to set the foundations before you could go on to do other things. Today, a lot of that foundational work has been done, and so it's a much more mature field, the work is -- a lot of it is -- it's very hard to characterize, but it's not as foundational as it used to be, it's much more finding good techniques. 
+
+On the other hand, computer science is actually a very broad field, so when I talk this way I'm talking primarily about the systems area and there is lots of research going on. Computer science is in a way part of everything because every field has a computer science component. This is really very evident in the sciences where they have to run -- the fact that they can do computations is a very important part of what's going on. 
+
+For example, in biology, the whole field of computational biology is very interesting. So one of things you see in computer science is more and more people are working at the boundaries, there's still, however, a lot of work to do at the core, so right now there's a question about how many processors can you put in a single machine, how would you organize the machine to use those processes effectively, and how would you write the software that runs on those processors. That's an example of a fundamental problem that's of interest today. So, there's still a lot of research to be done. 
+
+INTERVIEWER: What keeps you intrigued? 
+
+LISKOV: I just enjoy it. I like thinking about solving problems. I find it very satisfying. 
+
+INTERVIEWER: Let me ask about some of the contributions you've made at MIT. For example, when you were on the Computer Science Graduate Admissions Committee, from what I read you were very instrumental in increasing the number of or trying to recruit more women into that, so can you talk a little about that? 
+
+LISKOV: So, I ran that committee for many years, maybe ten years, I can't really remember. And what I did was I set up a procedure that seemed to be pretty effective at increasing the number of women admissions. And what that procedure was was that I -- when we got to the final stage -- so, you don't want to admit women and underrepresented minorities who are less qualified. But what you would like to do is when you have two equally qualified candidates, you might like to give the edge to a woman or underrepresented minority. The problem is that -- so the problem is to set up a process whereby you think about people in groups. So instead of saying here's number one, here's number two, here's number three, instead you say well, here's a group of people who are all admissible and we can't accept all of them, so now we have to, among this group, choose the ones we're going to accept. And what I did was I got the entire admissions committee together for a considerable period of time, I think probably half a day, at the very end when we'd already done the winnowing down to a small number of folders, and I broke them up into areas. Each area then came out with their group of top candidates. And then the committee as a whole would go through these groups talking about which ones to admit, and that had the affect -- then you had to explain if there was a woman that didn't make the cut. The under-represented minorities are such a small number that they almost never showed up, but there would be women that would show up. And just by having this open process where you talked about it, it had the impact on the process of more women to be admitted. So, I just sort of invented that process and it seemed to work. 
+
+INTERVIEWER: Was any effort made in order to solicit students--? 
+
+LISKOV: Not at the graduate student level. 
+
+INTERVIEWER: And how about when you were associate department head for Computer Science? 
+
+LISKOV: So, I sort of did the same thing for faculty search. I got my committee together, there were representatives from every area of Computer Science, and one thing I did was I got every committee -- everybody was very cooperative, so it wasn't like I got any pushback, but somehow or other having somebody running the committee who sort of made this a priority made a big difference. So, everybody on the committee was charged with going out and looking for senior candidates, women, and also looking for -- making phone calls, finding people in their area that might be encouraged to apply. So, at the faculty level we definitely were looking to encourage people to apply as opposed to just waiting for applications to come in. So that was one thing I did. 
+
+The other thing I did was I established a policy of being more generous with invitations for women, and if there had been any underrepresented minorities that would have applied to them, because you can't hire somebody if you don't invite them. And the truth is there's a lot of hidden bias in the letters, and so a good woman might not look as good on paper as a man just because the letters aren't written in quite the same way. 
+
+INTERVIEWER: Can you talk a little more about that? 
+
+LISKOV: It's just the way it is, you know. There's a lot of literature on this. The women are described as being cooperative. They'll work on what you ask them to. And the men are described as leading. And it's just the way the society is. There's a lot of implicit bias in our society. It's not intentional -- sometimes it's intentional. I mean every now and then you see a really egregious case. But mostly it's not that people are trying to do this, it's just they look at men and women differently. Women also probably present themselves as more compliant, so a man might interpret that as meaning they don't have ideas of their own. 
+
+So, I just sort of tweaked the system a little bit to sort of say well, we'll take a little bit more chances on women -- after all, interviewing them is not the same as hiring them, so you aren't making a commitment to hire them, you're just saying well, let's see what they're like. And it turned out in one of the cases of people we hired, actually, you know we took a chance, turned out to be our top candidate. So, those two things together led to us being able to hire five women in three years, where the department for the previous 12 years had not hired a single woman. 
+
+INTERVIEWER: When you talk about the subtleties in -- are you talking about like the recommendations that come about someone? 
+
+LISKOV: Yes. 
+
+INTERVIEWER: Oh, okay. So, someone being described as compliant might be not considered a strong candidate. 
+
+LISKOV: Someone viewed in that way might get a letter that's just not quite as enthusiastic or that describes the person as being more of a follower than a leader, and it might be true, but in the case of women versus men, there's a lot of bias in our society that causes letters for women to be more like this than letters for men. 
+
+INTERVIEWER: And as associate provost for faculty? 
+
+LISKOV: So that job is in a way trying to do for the Institute what I was able to do for the department. I'm looking out for women and underrepresented minorities on the faculty. This is a job that I share with Wes Harris, and we have divided the job along the obvious lines, so Wes is primarily focused on underrepresented minorities, and I have been primarily focused on women. But, in fact, we do work together. And this is not a job that existed before, although it came out of Nancy Hopkins and her group in the School of Science where they did that study of women in the 1990s, so I've had to make it up. And what I've been doing primarily is focusing on search and retention, especially for junior faculty. And so with respect to search I'm trying to get the search practices to be better across the Institute, which is not easy to do because the decisions are ultimately made by search committees, so somehow or other you have to reach the search committees and get them to understand things like implicit bias, and I think that the chair of the search committee's very important here, you need somebody who's sort of committed. There's an old idea that you always put a woman and an underrepresented minority on a committee, but I actually don't think that works very well, I think it has to come from the top rather than having somebody just sitting there who keeps saying like a broken record oh, what about her. I don't think the committee pays much attention to that. 
+
+So, on the one hand I've been trying to improve search practices, and then additionally, I've been trying to monitor what's going on with junior faculty so that I don't end up with somebody who is unable to get tenure because they haven't been treated properly. And this, again, can be quite subtle. You know, women are more likely to say yes to assignments than men are. This means that they may end up with the wrong assignments and the explanation is oh, they said it was okay, but really it wasn't -- the responsibility is not with the young faculty member it's with the department head. So it's that kind of stuff. 
+
+INTERVIEWER: Do you feel good about the success you've had? 
+
+LISKOV: I feel like I hardly know whether I'm having success or not. I think that in the end it depends on how the individual department's run, and I feel in some cases I can see that the department chair is really committed and is doing a good job, in other cases I'm not so sure. And I can only see things at second hand, so I don't really know what's going on. 
+
+INTERVIEWER: Are there other ways in which you have supported the women, either among students or faculty other than the ones we've just talked about? 
+
+LISKOV: Well, I don't think I've done too much with the students other than informal mentoring, you know, when people come and talk to me. With respect to the women faculty in my department, I probably did set up an atmosphere for them and I did get -- I used to have dinners for the -- we could all get together, we still do that from time-to-time. So maybe improving the atmosphere so that they felt more included or they felt like they had a support group. But that's about -- and, of course, in my own department I was able -- I think my department does pretty well anyway on how they treat young faculty, they're pretty careful. But certainly the kinds of stuff I was just talking about, you know, there I have had a more direct impact and I still have a pretty direct impact on what's going on. 
+
+INTERVIEWER: What is it like now as a woman faculty member at MIT? 
+
+LISKOV: Well, I can't answer that question, so I only really know what it's like for me. Certainly the policies are better. When I had my son before I was tenured, there was nothing like the parental release. Nowadays there is. So in that sense it's better. I think that the kinds of things I'm talking about probably make it easier for women to succeed, but I think they still have trouble. I think that the people who are superstars, never had any trouble still don't have any trouble. Well, never is a strong word, because in the days when nobody wanted women on the faculty they had trouble. But today, the ones who are superstars sail right through. It's the ones who are not quite up at that level where maybe still the playing field is still in favor of the men because there's always more of a presumption of success given to people who are like you, and so women, and I think especially underrepresented minorities can get caught -- if they're not superstars they can get caught in this sort of strange evaluation process where a lot of implicit assumptions come into play. 
+
+INTERVIEWER: Do you feel like to be a woman and to succeed means you have to go about your career the way men have traditionally done that? 
+
+LISKOV: No. I mean if I look -- so, you know, did I do that? I don't know if I did or not. Does that mean that you focus on your work to the exclusion of your family, which is, in fact, a traditional way men have behaved? No, obviously not. Most of my women colleagues have children and clearly they act as mothers, which in our society still means they do the bulk of the childcare, and so no, I don't think they do it in the same way. I think they may be promoted a little more slowly, but on the other hand, MIT is always going to be a place where clear-headedness, logic -- I mean they have to compete on that level, they just don't have to run their life the way that a man who has a wife at home and is sort of freed from all responsibility might behave. I think it's particularly hard for women in lab sciences where you have the extra problem of running a lab which may require fairly continuous attention. But I've always felt I was fortunate that I worked in a field where I could do my work anywhere. 
+
+INTERVIEWER: Do you think your career would have been different if you'd been a man? 
+
+LISKOV: Well, who can say that? I did feel when I was young that it was an advantage to be -- it was an advantage and a disadvantage -- but it was an advantage to be a woman because I didn't have to worry about having a career, I could just do whatever I wanted. And so I was able to do this kind of random walk that eventually led me to this career, but it wasn't something I worried about when I was in college and I could see that the young men were very concerned about what kind of job am I going to get, how am I going to support a family. But on the other hand, they also had opportunities that I didn't have, so it's really hard to say. 
+
+Sure, I think every career is in some sense a set of random events. You make your own luck but you're presented with certain opportunities and the opportunities that might have been presented to me if I were man could have been very different. 
+
+INTERVIEWER: You certainly would have had more offers after you got your doctorate. 
+
+LISKOV: I probably would have had offers, yes. 
+
+INTERVIEWER: Because I assume that people who were in your program, they all had offers. 
+
+LISKOV: Hmm, yeah. 
+
+INTERVIEWER: So now, you've been named an Institute Professor and that sort of -- that makes you a leading citizen at MIT? 
+
+LISKOV: Yes. 
+
+INTERVIEWER: Did that come as a surprise? 
+
+LISKOV: Oh, yeah, absolutely, I wasn't thinking about that at all. 
+
+INTERVIEWER: And how is that meaningful to you? 
+
+LISKOV: Well, it's again, it's a recognition. It hasn't been particularly different for me because I was already associate provost, so I'm already in this position where I've been doing a lot of stuff for MIT, and when you become an Institute Professor you're no longer in a department, you work for the Institute, but I was already working for the Institute. So, I don't know that it's had that -- you know, aside from the recognition, I don't know that it's really had much of an impact on what I do from day-to-day. 
+
+INTERVIEWER: Well, my understanding is that it allows you to sort of define your own roles and responsibilities, and do you see any ways in which you want to do that looking forward? 
+
+LISKOV: Well, right now I'm pretty fully occupied, so if I step down from being associate provost then I might take advantage of that -- it might offer me opportunities I wouldn't have had if I went back to being a normal professor in my department. 
+
+INTERVIEWER: Can you talk a little bit about the ways in which being at MIT has either helped or hindered your work or both? 
+
+LISKOV: I don't think it's hindered my work at all. I think it's helped. An obvious way in which it helps is it gives me access to wonderful students. In the early days, being at MIT made it very easy to get research funding. It's not so true anymore, but when I first started at MIT we used to get these big block grants from ARPA, the Advanced Research Project Agency and all I had to do was write a couple paragraphs to be part of that grant. At MIT I have wonderful colleagues, so I would say it's been only helpful. 
+
+INTERVIEWER: So you're someone who has always made sure that she's had downtime or personal time, and I wonder if you could talk a little bit about why you think that's so important. 
+
+LISKOV: Well, I found it very important -- well, first of all I wanted to have a balanced life, so I was never somebody who was interested in working all the time. But I also felt that the downtime was very beneficial because working very intensely and then stopping, somehow your unconscious is still working on the problems, and I often found that solutions to problems would sort of materialize. I used to -- I would drive into work in the morning and I'd be thinking about what am I going to do today and I would find that an idea had sort of happened. So I found that the combination of intense work and not working to be very productive. That's not to say it would be true for everyone, but I do think that when you get tired you reach a point where you might be putting in the hours but you're not necessarily getting that much out of them. 
+
+INTERVIEWER: I don't know how widespread that recognition is. 
+
+LISKOV: I don't think it's as widespread as it ought to be. 
+
+INTERVIEWER: I feel like I'd like you to sort of explain -- and I suppose this puts you as a role model, but in terms of raising a child and having a successful career, have you found it difficult to have that balance and kind of do both things well? Do you feel like one has suffered at the expense of the other? 
+
+LISKOV: I tried not to let things suffer. It was very hard when my son was young and you never knew what crisis was going to happen next. Fortunately, my husband's job was relatively flexible so that when something came up like he was sick and somebody had to be the one to pick him up at school or whatever it was, we could sort of organize that in a way that whoever could do it more easily would do it. I did have a nanny for the first five years, and that made it a lot easier than having daycare. But there's no doubt that it's hard because there are just so many demands on your time, and it is exhausting because you know, you go home at night and then you have this intense time when you're spending the time with the child and you know by time the child's in bed it's already late. But, of course, having children is a very important part of life, so it would be -- it's really sad not to be able to experience that. I actually advise young women to not wait to have children, I think it's a mistake to wait, because, of course, there could be many problems if you wait too long, and it just seemed better to just fit it in one way or another. 
+
+INTERVIEWER: How do you -- back to sort of the school of engineering, so how do you see that school of engineering sort of fitting into MIT as a whole? 
+
+LISKOV: Well, it's the biggest school, it's a very prominent -- you know, it's a top-ranked school in the country. I don't exactly know how to answer that question. If you think about MIT, MIT's an Institute of Science and Engineering, so we have the School of Science and the School of Engineering, they're both very distinguished. And then we have our three other schools who probably feel that they're a little bit off on the side. More and more what we see is collaboration among the schools -- this is I think fairly new, but I'm not sure exactly what you're getting at with this question. 
+
+INTERVIEWER: I think what you just answered is as good as I might expect. Do you feel like the more recent emphasis on adding more awareness of like the arts and non-scientific disciplines, is that a value to the overall education here? 
+
+LISKOV: So, I actually don't feel that's changed. I think the emphasis on the humanities has been with us ever since I came to MIT, it's always been an important adjunct to the education of our students. It's always been very interesting to me that our undergraduates are multi-talented and many of them have an intense interest in some arts or humanities field and take -- they take good advantage of the courses we offer. What I think has changed is a little bit more collaborative work between, especially between, for example, the School of Architecture and Planning and the School of Engineering, also, across projects between science and engineering. So that was what I was talking about, not that there is an increased interest in the arts, I think that's always been there. INTERVIEWER: And what's the value of the collaboration that seems to be better now than it was maybe 30 years ago? 
+
+LISKOV: It could be that there are now projects available that weren't available then. So, for example, if you're thinking about green cities, there are obviously architectural issues there, as well as engineering issues, or bioengineering and biology, they represent a clear connection between science and engineering. So I think it's -- maybe it has to do with the changing -- what's going on in society, or maybe it's just people used to work more in their disciplines and now they've awakened to the fact that they could be working a little more broadly. 
+
+INTERVIEWER: Yeah, that does seem to be a trend now. 
+
+LISKOV: It can be overdone. So, you still need work in the disciplines, basic work, but there's a lot of interesting work to be done. I guess what's really going on is that departments are artificial constructs, and so whenever you -- and so there's a continuum of stuff, and then there are these artificial constructs that say well, this stuff is in that department, this stuff is in that department, and there's always going to be stuff in between and to the extent that you can be agile in supporting those intermediate things -- this gives you access to interesting problems that otherwise would be difficult to tackle. 
+
+INTERVIEWER: Is there -- if you think about MIT kind of as an institution, what would you say is its role nationally or globally, its significance? 
+
+LISKOV: Well, I think that it needs to advocate on behalf of science and engineering nationally, and so it's very important for it to -- it has been an advocate in that role and it needs to continue to do that. It's perhaps a little less necessary in this administration than it was in the last one, but I do think that MIT needs to play a leadership role in focusing attention on the importance of science and engineering to the future of our country. I see that at a national level and an international level. You know, there it's not quite a matter of lobbying, it's more a matter of helping foster connections so that developing countries can move a little bit faster, that sort of stuff. 
+
+INTERVIEWER: Are there specific ideas that you have it about the kinds of programs or changes that MIT could make moving forward to help foster that? 
+
+LISKOV: I think actually the problem MIT has is that it's presented with too many opportunities and it's very difficult to decide which ones to work on and which ones to not work on. So, I think this is one of the major things that Susan Hockfield is worried about of the 100 different proposals that are made about we want MIT to collaborate with this -- on this and this and this and this. You know which ones -- there's a limit to what we can do because if we're not careful we'll dilute what we're able to do here and that's always going to be a very important part of what MIT is all about. 
+
+INTERVIEWER: Are there other ways in which you sort of have hopes for MIT for the future? 
+
+LISKOV: MIT's great, and I can only hope that it continues to be great. I personally believe that there will continue to be a need for on-campus education. I don't see this as being subsumed by stuff on the web or something like that, because so much of what we do is sort of apprentice style, that's how people learn how to do research, and if you think about our undergraduates, they get so much benefit out of being together and working together that I -- to me it seems like this is going to be a continuing viable model. I hope that that continues to be true because a world without an MIT or MIT turns into something that's just available remotely seems pretty unattractive. 
