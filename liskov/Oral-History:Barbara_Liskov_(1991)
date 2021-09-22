@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Oral-History:Barbara Liskov (1991) - Engineering and Technology History Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YUslt3LtCtKrYZiXwNr6TwAAAAs","wgCSPNonce":!1,"wgCanonicalNamespace":"Oral-History","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":108,"wgPageName":"Oral-History:Barbara_Liskov_(1991)","wgTitle":"Barbara Liskov (1991)","wgCurRevisionId":183512,"wgRevisionId":183512,"wgArticleId":7186,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["People and organizations","Engineers","Government","Inventors","Scientists","Universities","Engineering and society","Law \u0026 government","Computing and electronics","Computer science","Algorithm analysis","Concurrency control","Formal languages",
+"Object oriented methods","Object oriented programming","Distributed computing","Engineering fundamentals","Fault tolerance","News"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Oral-History:Barbara_Liskov_(1991)","wgRelevantArticleId":7186,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgPageFormsTargetName":null,"wgPageFormsAutocompleteValues":[],"wgPageFormsAutocompleteOnAllChars":!1,"wgPageFormsFieldProperties":[],"wgPageFormsCargoFields":[],"wgPageFormsDependentFields":[],"wgPageFormsCalendarValues":[],"wgPageFormsCalendarParams":[],"wgPageFormsCalendarHTML":null,"wgPageFormsGridValues":[],"wgPageFormsGridParams":[],"wgPageFormsContLangYes":null,"wgPageFormsContLangNo":null,"wgPageFormsContLangMonths":[],
+"wgPageFormsHeightForMinimizingInstances":800,"wgPageFormsShowOnSelect":[],"wgPageFormsScriptPath":"/w/extensions/PageForms","edgValues":null,"wgPageFormsEDSettings":null,"wgAmericanDates":!1,"egMapsScriptPath":"/w/extensions/Maps/","egMapsDebugJS":!1,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgMjSize":100,"wgULSPosition":"personal","wgEditSubmitButtonLabelPublish":!1};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.toc.styles":"ready","mediawiki.skinning.content":"ready","zzz.ext.bootstrap.styles":"ready","ext.uls.pt":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.smw.style":"ready","ext.smw.tooltip.styles":"ready"};RLPAGEMODULES=["ext.wfSoundManager2Button","ext.smw.style","ext.smw.tooltips","ext.MjCDN","ext.MjCDN.mobile","smw.entityexaminer","site",
+"mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","ext.uls.interface","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.ethw","ext.bootstrap.scripts"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.smw.style%7Cext.smw.tooltip.styles&amp;only=styles&amp;skin=chameleon"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.skinning.content%7Cmediawiki.toc.styles%7Czzz.ext.bootstrap.styles&amp;only=styles&amp;skin=chameleon"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=chameleon"></script>
+<style>#mw-indicator-mw-helplink {display:none;}</style>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=chameleon"/>
+<meta name="generator" content="MediaWiki 1.35.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<link rel="alternate" type="application/rdf+xml" title="Oral-History:Barbara Liskov (1991)" href="/w/index.php?title=Special:ExportRDF/Oral-History:Barbara_Liskov_(1991)&amp;xmlmime=rdf"/>
+<link rel="shortcut icon" href="/w/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ETHW (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://ethw.org/w/api.php?action=rsd"/>
+<script type="text/javascript" src="https://static.adzerk.net/ados.js"></script>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-108 ns-subject page-Oral-History_Barbara_Liskov_1991 rootpage-Oral-History_Barbara_Liskov_1991 layout-navhead_ethw skin-chameleon action-view">
+	<!-- navigation bar -->
+	<nav class="p-navbar collapsible" role="navigation" id="mw-navigation">
+		<!-- logo and main page link -->
+		<div id="p-logo" class="navbar-brand p-logo" role="banner">
+			<a href="/Main_Page" title="Visit the main page"><img src="/w/logo.png" alt="ETHW"/></a>
+		</div>
+		<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#gupp02ej7a"></button>
+		<div class="collapse navbar-collapse gupp02ej7a" id="gupp02ej7a">
+			<div class="navbar-nav">
+				<!-- Explore content -->
+				<div class="nav-item dropdown">
+					<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" data-boundary="viewport">Explore content</a>
+					<div class="dropdown-menu p-Explore content" id="p-Explore content">
+						<div id="n-Browse-by-Subject"><a href="/ETHW:Subject_browse" class="nav-link n-Browse-by-Subject">Browse by Subject</a></div>
+						<div id="n-Encyclopedia"><a href="/Encyclopedia" class="nav-link n-Encyclopedia">Encyclopedia</a></div>
+						<div id="n-Oral-Histories"><a href="/Oral-History:List_of_all_Oral_Histories" class="nav-link n-Oral-Histories">Oral Histories</a></div>
+						<div id="n-First-Hand-Histories"><a href="/First-Hand:List_of_First_Hand_Histories" class="nav-link n-First-Hand-Histories">First Hand Histories</a></div>
+						<div id="n-Landmarks.2FMilestones"><a href="/Landmarks" class="nav-link n-Landmarks.2FMilestones">Landmarks/Milestones</a></div>
+						<div id="n-Archives"><a href="/Archives:Archival_Collections" class="nav-link n-Archives">Archives</a></div>
+						<div id="n-Education"><a href="/ETHW:About-Education" class="nav-link n-Education">Education</a></div>
+						<div id="n-Random-page"><a href="/Special:Random" class="nav-link n-Random-page">Random page</a></div>
+						<div id="n-Special-pages"><a href="/Special:SpecialPages" class="nav-link n-Special-pages">Special pages</a></div>
+						<div id="n-Recent-changes"><a href="/Special:RecentChanges" class="nav-link n-Recent-changes">Recent changes</a></div>
+						<div id="n-New-pages"><a href="/Special:NewPages" class="nav-link n-New-pages">New pages</a></div>
+					</div>
+				</div>
+				<!-- User assistance -->
+				<div class="nav-item dropdown">
+					<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" data-boundary="viewport">User assistance</a>
+					<div class="dropdown-menu p-User assistance" id="p-User assistance">
+						<div id="n-help"><a href="/Help:Contents" title="The place to find out" class="nav-link n-help">Help</a></div>
+						<div id="n-Contact-us"><a href="/Special:Contact" class="nav-link n-Contact-us">Contact us</a></div>
+					</div>
+				</div>
+			<!-- toolbox -->
+			<div class="nav-item p-tb-dropdown">
+				<a href="#" class="nav-link dropdown-toggle p-tb-toggle" data-toggle="dropdown" data-boundary="viewport">Tools</a>
+				<div class="dropdown-menu">
+					<div id="t-whatlinkshere" class="nav-item"><a href="/Special:WhatLinksHere/Oral-History:Barbara_Liskov_(1991)" title="A list of all wiki pages that link here [j]" accesskey="j" class="nav-link t-whatlinkshere">What links here</a></div>
+					<div id="t-recentchangeslinked" class="nav-item"><a href="/Special:RecentChangesLinked/Oral-History:Barbara_Liskov_(1991)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k" class="nav-link t-recentchangeslinked">Related changes</a></div>
+					<div id="t-specialpages" class="nav-item"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q" class="nav-link t-specialpages">Special pages</a></div>
+					<div id="t-print" class="nav-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p" class="nav-link t-print">Printable version</a></div>
+					<div id="t-permalink" class="nav-item"><a href="/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;oldid=183512" title="Permanent link to this revision of the page" class="nav-link t-permalink">Permanent link</a></div>
+					<div id="t-info" class="nav-item"><a href="/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;action=info" title="More information about this page" class="nav-link t-info">Page information</a></div>
+					<div id="t-smwbrowselink" class="nav-item"><a href="/Special:Browse/:Oral-2DHistory:Barbara-5FLiskov-5F(1991)" rel="search" class="nav-link t-smwbrowselink">Browse properties</a></div>
+					<div id="t-smwbrowselink" class="nav-item"><a href="/Special:Browse/:Oral-2DHistory:Barbara-5FLiskov-5F(1991)" rel="search" class="nav-link t-smwbrowselink">Browse properties</a></div>
+				</div>
+			</div>
+			</div>
+			<div class="navbar-nav right">
+				<!-- page tools -->
+				<div class="navbar-tools navbar-nav flex-row">
+					<div class="navbar-tool dropdown">
+						<a data-toggle="dropdown" data-boundary="viewport" class="navbar-more-tools" href="#" title="Page tools"></a>
+						<!-- Content navigation -->
+						<div class="flex-row navbar-pagetools dropdown-menu p-contentnavigation" id="p-contentnavigation">
+							<!-- namespaces -->
+							<div id="ca-talk" class="new"><a href="/w/index.php?title=Oral-History_talk:Barbara_Liskov_(1991)&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t" class="new ca-talk">Discussion</a></div>
+							<!-- views -->
+							<div id="ca-viewsource"><a href="/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e" class="ca-viewsource">View source</a></div>
+							<div id="ca-history"><a href="/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class="ca-history">History</a></div>
+						</div>
+					</div>
+				</div>
+				<!-- search form -->
+				<div  id="p-search" class="p-search order-first order-cmln-0 navbar-form" role="search"  >
+					<form  id="searchform" class="mw-search" action="/w/index.php" >
+						<input type="hidden" name="title" value=" Special:Search" />
+						<div class="input-group">
+							<input name="search" placeholder="Search ETHW" title="Search ETHW [f]" accesskey="f" id="searchInput" class="form-control"/>
+							<div class="input-group-append">
+								<button value="Go" id="searchGoButton" name="go" type="submit" class="search-btn searchGoButton" aria-label="Go to page" title="Go to a page with this exact name if it exists"></button>
+							</div>
+						</div>
+					</form>
+				</div>
+				<!-- personal tools -->
+				<div class="navbar-tools navbar-nav" >
+					<div class="navbar-tool dropdown">
+						<a class="navbar-usernotloggedin" href="#" data-toggle="dropdown" data-boundary="viewport" title="You are not logged in.">
+						</a>
+						<div class="p-personal-tools dropdown-menu">
+							<div id="pt-uls" class="active"><a href="#" class="uls-trigger pt-uls">English</a></div>
+							<div id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oral-History%3ABarbara+Liskov+%281991%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class="pt-login">Log in</a></div>
+							<div id="pt-createaccount"><a href="/Special:RequestAccount" title="You are encouraged to create an account and log in; however, it is not mandatory" class="pt-createaccount">Request account</a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	<div class="flex-fill container">
+		<div class="row">
+			<div class="col">
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<!-- start the content area -->
+				<div id="content" class="mw-body content"><a id="top" class="top"></a>
+					<div id="mw-indicators" class="mw-indicators">
+					<div id="mw-indicator-smw-entity-examiner" class="mw-indicator mw-indicator-smw-entity-examiner"><div class="smw-entity-examiner smw-indicator-vertical-bar-loader" data-subject="Barbara_Liskov_(1991)#108##" data-dir="ltr" data-uselang="" title="Running an examiner in the background"></div></div>
+				</div>
+						<div class="contentHeader">
+						<!-- title of the page -->
+						<h1 id="firstHeading" class="firstHeading">Oral-History:Barbara Liskov (1991)</h1>
+						<!-- tagline; usually goes something like "From WikiName" primary purpose of this seems to be for printing to identify the source of the content -->
+						<div id="siteSub" class="siteSub">From ETHW</div><div id="jump-to-nav" class="mw-jump jump-to-nav">Jump to:<a href="#mw-navigation">navigation</a>, <a href="#p-search">search</a></div>
+					</div>
+					<div id="bodyContent" class="bodyContent">
+						<!-- body text -->
+
+						<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#About_Barbara_Liskov"><span class="tocnumber">1</span> <span class="toctext">About Barbara Liskov</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#About_the_Interview"><span class="tocnumber">2</span> <span class="toctext">About the Interview</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Copyright_Statement"><span class="tocnumber">3</span> <span class="toctext">Copyright Statement</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Interview"><span class="tocnumber">4</span> <span class="toctext">Interview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Funding_from_NSF_and_DARPA"><span class="tocnumber">4.1</span> <span class="toctext">Funding from NSF and DARPA</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Data_Abstraction_and_CLU"><span class="tocnumber">4.2</span> <span class="toctext">Data Abstraction and CLU</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Distributed_Computing_and_Argus"><span class="tocnumber">4.3</span> <span class="toctext">Distributed Computing and Argus</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Mercury.2C_Thor_and_Harp_Projects"><span class="tocnumber">4.4</span> <span class="toctext">Mercury, Thor and Harp Projects</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Parallel_Projects_by_Other_Researchers"><span class="tocnumber">4.5</span> <span class="toctext">Parallel Projects by Other Researchers</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Strengths_.26_Weaknesses_of_NSF_Grants"><span class="tocnumber">4.6</span> <span class="toctext">Strengths &amp; Weaknesses of NSF Grants</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="About_Barbara_Liskov">About Barbara Liskov</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/File:5196_-_Barbara_Liskov.jpg" class="image"><img alt="5196 - Barbara Liskov.jpg" src="/w/images/thumb/3/34/5196_-_Barbara_Liskov.jpg/300px-5196_-_Barbara_Liskov.jpg" decoding="async" width="300" height="426" class="thumbimage" srcset="/w/images/thumb/3/34/5196_-_Barbara_Liskov.jpg/450px-5196_-_Barbara_Liskov.jpg 1.5x, /w/images/thumb/3/34/5196_-_Barbara_Liskov.jpg/600px-5196_-_Barbara_Liskov.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:5196_-_Barbara_Liskov.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+<p>A pioneer in object-oriented programming, <a href="/Barbara_H._Liskov" title="Barbara H. Liskov">Dr. Barbara H. Liskov</a> is perhaps best known for her seminal work on data abstraction, a fundamental tool for organizing programs. Her research in the early 1970s led to the design and implementation of CLU, the first programming language to support data abstraction. Since 1975, every important programming language, including Java, has borrowed ideas from CLU. Dr. Liskov's other extraordinary contributions include the Venus operating system, the Argus distributed programming language and system and the Thor system for robust replicated storage of persistent objects. Argus was a groundbreaking high-level programming language used to support implementation of distributed programs that run on computers connected by a network, such as the Internet. </p>
+<p>Dr. Liskov is the Ford Professor of Engineering at the Massachusetts Institute of Technology in Cambridge, Massachusetts, where she has taught since 1972. In the 1960s, Professor Liskov held positions at the <a href="/MITRE_Corporation" title="MITRE Corporation">MITRE Corporation</a> in Bedford, Massachusetts, Harvard University in Cambridge, Massachusetts, and Stanford University in Palo Alto, California. </p>
+<p>The interview concentrates on NSF funding for her projects at MIT. She compares NSF to DARPA funding; describes the CLU, Argus, Mercury, Thor and Harp projects; and explores the strengths and weaknesses of NSF funding. </p>
+<h2><span class="mw-headline" id="About_the_Interview">About the Interview</span></h2>
+<p>BARBARA LISKOV: An Interview Conducted by William Aspray, IEEE History Center, August 6, 1991 </p>
+<p>Interview #127 for the IEEE History Center, The Institute of Electrical and Electronics Engineers, Inc. </p>
+<h2><span class="mw-headline" id="Copyright_Statement">Copyright Statement</span></h2>
+<p>This manuscript is being made available for research purposes only. All literary rights in the manuscript, including the right to publish, are reserved to the IEEE History Center. No part of the manuscript may be quoted for publication without the written permission of the Director of IEEE History Center. </p>
+<p>Request for permission to quote for publication should be addressed to the IEEE History Center Oral History Program, IEEE History Center, 445 Hoes Lane, Piscataway, NJ 08854 USA or ieee-history@ieee.org. It should include identification of the specific passages to be quoted, anticipated use of the passages, and identification of the user. </p>
+<p>It is recommended that this oral history be cited as follows: </p>
+<p>Barbara Liskov, an oral history conducted in 1991 by William Aspray, IEEE History Center, Piscataway, NJ, USA. </p>
+<h2><span class="mw-headline" id="Interview">Interview</span></h2>
+<p>INTERVIEW: Barbara Liskov </p>
+<p>INTERVIEWER: William Aspray </p>
+<p>DATE: August 6, 1991 </p>
+<p>PLACE: Telephone Interview </p>
+<h3><span class="mw-headline" id="Funding_from_NSF_and_DARPA">Funding from NSF and DARPA</span></h3>
+<p><b>Aspray:</b> </p>
+<p>Could you begin by telling me what support you have had from the National Science Foundation in the computing area? </p>
+<p><b>Liskov:</b> </p>
+<p>I have had NSF grants since around 1973, I think, or possibly early 1974. These grants have supported the research I have done, which has changed focus over the years. Are you looking for a description of what the research was like? </p>
+<p><b>Aspray:</b> </p>
+<p>Yes, I will be. </p>
+<p><b>Liskov:</b> </p>
+<p>What do you want now? </p>
+<p><b>Aspray:</b> </p>
+<p>Why don’t you give me an overview first of how frequently you have had grants, and just the general area, and then we will come back and talk in detail about what they were. </p>
+<p><b>Liskov:</b> </p>
+<p>The grants that I have had have usually been 3-year grants. I have always applied for the new one more or less at the appropriate time in order to get funding when the old one ran out. I think there have been a couple of periods when there has been a hiatus between the end of one and the beginning of another. Sometimes it has been my fault because I did not get the grant in soon enough, and sometimes it has been the NSF’s fault. They were not fast enough to get the feedback from the referees or something, some kind of foot dragging was going on. </p>
+<p><b>Aspray:</b> </p>
+<p>Sometimes getting referees’ comments back is difficult? </p>
+<p><b>Liskov:</b> </p>
+<p>Difficult, right. </p>
+<p><b>Aspray:</b> </p>
+<p>Has most of your support over the years been from the NSF as opposed to from the Defense Advanced Research Projects Administration, the National Institute of Health, or the Atomic Energy Commission? </p>
+<p><b>Liskov:</b> </p>
+<p>No. Most of my support has actually been from DARPA, because I do systems work and the NSF does not provide enough funding to support that kind of work. The NSF support has always been for a fraction of what I do, maybe 20 percent. I never sort of thought about it in those terms. </p>
+<p><b>Aspray:</b> </p>
+<p>Is there any way of differentiating between what is supported by DARPA and what is supported by NSF? </p>
+<p><b>Liskov:</b> </p>
+<p>The NSF has never cared, and so I have never really made much of a point of trying to distinguish that. Their attitude, as I understand it, has been you put in a certain amount of money and you get a lot more out of it because there is other funding involved. </p>
+<p><b>Aspray:</b> </p>
+<p>And the funding that you receive from DARPA, are those proposals that you are a PI on, are they laboratory grants, or are there other PIs? </p>
+<p><b>Liskov:</b> </p>
+<p>They used to be laboratory grants, in which my part was a couple of pages describing what I was doing. DARPA has changed now, and so now they are actually grants that have my name on as a PI. </p>
+<p><b>Aspray:</b> </p>
+<p>Let’s talk, then, for a few minutes about exactly what you have been supported for, whether it is DARPA or NSF support, since it is hard to distinguish between the two. </p>
+<p><b>Liskov:</b> </p>
+<p>DARPA has changed, but in the past they were very interested in theoretical work. I would often take my more theoretical work and say that was the NSF stuff. But that was done more because of DARPA, and it was more what I did not put in the DARPA grant than what I claimed for the NSF. </p>
+<h3><span class="mw-headline" id="Data_Abstraction_and_CLU">Data Abstraction and CLU</span></h3>
+<p><b>Aspray:</b> </p>
+<p>That is entirely in keeping with what we hear from lots of other people. Could you tell me something about the research you have done? Give me some sense of what projects you worked on, what were the problems? </p>
+<p><b>Liskov:</b> </p>
+<p>The work that I did in the 1970s, starting at around about 1973, was concerned with programming language support for a concept called data abstraction. This work was concerned with how to make programmers more productive, and how to help them produce programs that were more robust and easier to modify. I worked on that program from a programming language perspective. I designed and implemented a new programming language that contained this concept as a key feature. In addition to the work on programming languages, I also did quite a bit of work on how you describe the modules of a program in an implementation-independent way, so that you can substitute one implementation for another without causing the rest of the program to misbehave. I did some work on how you verify a reason about the correctness of a module, and I was also very interested in the programming methodology itself, how you go about figuring out how to design a system and sort of carry it through to conclusion. That work went on up to around 1979. I had support from both DARPA and the NSF to do that work for that period. </p>
+<p><b>Aspray:</b> </p>
+<p>Why did it end at that point? </p>
+<p><b>Liskov:</b> </p>
+<p>Because the language was completed, and I decided it was time to go on and look at new stuff. </p>
+<p><b>Aspray:</b> </p>
+<p>What was the final product? </p>
+<p><b>Liskov:</b> </p>
+<p>The final product was a language called CLU. Ultimately, I wrote a book about the programming methodology, and there were a whole bunch of papers describing how you do specifications and so forth, </p>
+<p><b>Aspray:</b> </p>
+<p>What was the title of the book? </p>
+<p><b>Liskov:</b> </p>
+<p>The book is called <i>Abstraction and Specification in Program Development</i>. </p>
+<p><b>Aspray:</b> </p>
+<p>In your opinion did this work end satisfactorily? Was the programming language a success? </p>
+<p><b>Liskov:</b> </p>
+<p>The programming language was a success in the terms that I had thought about it at the time. I sort of thought about it as a research vehicle that was developed primarily to firm up ideas and get them out so other people could see them. In retrospect, I probably should have spent some time after 1979 on it, but it would not really have been research work. It would have been more technology transfer. Sort of making the language, the implementation, a little bit more transportable and trying to find an industrial partner who would have taken over the language so that perhaps it could have spread more than it did. It is still used at MIT and it has been used at other places, but it has never caught on as a language that people really use. I think that is too bad, and I think that if I had spent a couple of years at the end of the 1970s in providing more of a production level compiler and pushing it, that might have made a difference. Now, at that time I do not think that I was aware that there was any funding for that kind of work; maybe there was and maybe there was not. If I had done that, of course, I could not have gone on to the next research project that I did. I could not have my cake and eat it too. </p>
+<p><b>Aspray:</b> </p>
+<p>Do you think that today there is that kind of support, if you wanted it? </p>
+<p><b>Liskov:</b> </p>
+<p>It appears to me that there is, although, I have never tried to get it myself. Now DARPA has become more and more applied, and so the problem with DARPA today is that there is too much of a push, I think, on products. You can get a grant from NSF to finish up this kind of work at the end of a project, though whether it would be sufficient is another matter. The kind of work I am talking about probably requires programming staff, and takes a lot of effort with very little in the way of any sort of research advances. </p>
+<p><b>Aspray:</b> </p>
+<p>How would you evaluate the impact that this had on the field overall? I mean you have talked about the fact that it was only picked up and used in a small number of institutions. But the ideas in it, showing a direction in the field, was it influential in those respects? </p>
+<p><b>Liskov:</b> </p>
+<p>Yes, it was extremely influential. </p>
+<p><b>Aspray:</b> </p>
+<p>Can you give me some information that elaborates on that? </p>
+<p><b>Liskov:</b> </p>
+<p>The idea of data abstraction sort of caught fire and today there is a large community of people who think about how to organize programs in that way. So it has gone out into the field and become one of the building blocks that everybody thinks of when they build programs. In some sense it has become so diffuse, it is one of the basic tools of the trade. </p>
+<h3><span class="mw-headline" id="Distributed_Computing_and_Argus">Distributed Computing and Argus</span></h3>
+<p><b>Aspray:</b> </p>
+<p>Can you now take your story on beyond that, past 1979? </p>
+<p><b>Liskov:</b> </p>
+<p><br />
+</p><dl><dt>Audio File</dt>
+<dd>MP3 Audio<br /><a href="https://ethw.org/w/images/7/7d/127_-_liskov_-_clip_1.mp3" title="Play" class="sm2_button">Play</a> (<span style="color:#888;">127_-_liskov_-_clip_1.mp3</span>)<p class="mw-empty-elt"></p></dd></dl>
+
+<p>One of the things I did when I was developing CLU was, in order to make progress on the stuff I was working on, I sort of narrowed the problem. One of the things I decided not to look at was concurrency. In 1979, when the work on CLU was finishing and I was thinking about what to do next, I decided to work on distributed computing. Distributed computing at that point was an area that was just in its infancy. There were people who sort of knew how to put the hardware together to make a distributed system, but they did not really understand very much about how to build the software. So I decided to look at the question of "How do you build software on a distributed network?" </p>
+<p>Ultimately, that ended up being a language project too. I designed and implemented a second language called Argus, whose goal was to make it easy for people to write distributed implementations of various applications. Earlier I mentioned the concurrency work and how that was left out of CLU. Concurrency is a very important part of what goes on in distributed systems, since there are many computers and obviously you want to have them doing things in parallel. In some sense I picked that work up again in Argus, but in a different form than I would have done it in CLU, because in CLU I would have been thinking only about a single machine. </p>
+<p><b>Aspray:</b> </p>
+<p>Okay. </p>
+<p><b>Liskov:</b> </p>
+<p>The other issue that arises in a distributed system is the question of [inaudible word] tolerance, because once you have a program that is dependent on many pieces of equipment, if it is built in a simple-minded way where the failure of any single component could make the program fail, it will not be a very satisfactory product. So a big concern when you build a distributed system is "How can I write a program that will continue to be able to provide service even when components are not functioning?" And how do I build a program that, if it is running a computation that is a failure — in the middle of that computation how do I guarantee that the system ends up in a reasonable state? These are the kinds of problems that I was dealing with in developing this programming language. </p>
+<p><b>Aspray:</b> </p>
+<p>To what degree did this succeed? </p>
+<p><b>Liskov:</b> </p>
+<p>Well, again, I have on my hands a language that has not been widely used. But, again, the ideas have certainly spread throughout the community. One of the ideas in Argus is that you build programs out of things called atomic transactions, and these are computations that either succeed, in which case everything that they were supposed to have done happened and happened indivisibly with respect to every other computation, or if it is not possible to complete them then they fail completely and it is as if they never ran at all. Now atomic transactions are not an idea that I invented. I took them out of work in database systems. But in Argus I put them into a more general framework. And there has been a lot of controversy in the field about whether every distributed system ought to be built out of atomic transactions or whether you can use something that is not quite so—I am not sure what the right word is—something a little weaker. But the point is, because of the work on Argus, this notion of atomic transactions as a way of building distributed systems became something that people think about in that region, in that area of programming. </p>
+<p><b>Aspray:</b> </p>
+<p>I understand that the idea transcends the language in this case, but where did the language get picked up and used? </p>
+<p><b>Liskov:</b> </p>
+<p>The language has really only been used at the Massachusetts Institute of Technology, because this language is really not very easily transportable, and it has to run on equipment someplace else that is pretty much the same as what we have at MIT. There have been very few people who have had exactly that equipment. We have had a few guests who have come in and used our system from elsewhere, but we have not actually sent it out, unlike CLU, where we sent it off to some 200 sites. With Argus, it is a much more difficult problem to transport it, because, unfortunately, the way we implement it depends on the actual hardware, but even if we had solved that problem, it also depends on the operating system and the network, and there are a lot of dependencies that we never got out of there. So it makes it very difficult to transport. </p>
+<p><b>Aspray:</b> </p>
+<p>Is this work that is still continuing? </p>
+<p><b>Liskov:</b> </p>
+<p>No. Argus is still running, and we are using it, for example, in some current work that I am doing, but, again, I stopped that work when I felt the language was complete and we had completed our investigation, and moved on to other stuff. </p>
+<p><b>Aspray:</b> </p>
+<p>What date was that approximately? </p>
+<p><b>Liskov:</b> </p>
+<p>Let’s see. That was probably around 1988, something like that. </p>
+<h3><span id="Mercury,_Thor_and_Harp_Projects"></span><span class="mw-headline" id="Mercury.2C_Thor_and_Harp_Projects">Mercury, Thor and Harp Projects</span></h3>
+<p><b>Aspray:</b> </p>
+<p>What have you moved to since then? </p>
+<p><b>Liskov:</b> </p>
+<p>Another thing that I worked on at the time I was working on Argus, and this work has continued, is replication algorithms. I have been very interested in the question of how can I build fault tolerant systems by keeping multiple copies of information at different places in a network, and, in particular, how do I do that efficiently and what kind of cost do you have to pay for replication? And then, in addition to that, I worked on a project called Mercury, which was concerned with heterogeneous computing in a distributed network. How can I build a program with components that are written in different programming languages running on different machines and so on? At the present time I am working on a project that is a sort of heterogeneous object oriented database. In some sense Mercury addresses one part of a sharing problem in a heterogeneous distributed world. How can one program use another program even though that second program is written in a different programming language? And the project I’m working on now, which is called Thor, is concerned with the other sharing problems: How can I have programs in a distributed heterogeneous world sharing objects in sort of a harmonious way? </p>
+<p><b>Aspray:</b> </p>
+<p>What is the status of these several projects that you have been working on? </p>
+<p><b>Liskov:</b> </p>
+<p>On Mercury we have done two prototypes, and the second prototype is completed. There are some staff people that have been working on that. And we are working on various sorts of technology transfer options. This was work that was primarily supported by DARPA. I would say in this period the NSF supported some of the Argus work and they supported the replication work, but I do not think I ever wrote up anything about Mercury in any of my proposals to them. But DARPA is putting more and more pressure on technology transfer and cooperation among the DARPA communities and so forth. So there has been quite a lot of work by the people working on the Mercury project to interact with other people in the DARPA community, to try and get either Mercury itself or the ideas of Mercury into some other parts of the DARPA research community. </p>
+<p><b>Aspray:</b> </p>
+<p>Okay. </p>
+<p><b>Liskov:</b> </p>
+<p>I have not been personally working on Mercury. I supervised that work for the last couple of years. I have been focusing on the work on Thor. And Thor is still in the early stages, so that is a very ambitious project where I have spent the first year just thinking about what it is that Thor might do. Then the second year I have been working on implementation strategies, and right now we are doing a very simple sort of pre-prototype implementation using Argus. But we are planning to do a full-fledged prototype using probably C. And at the same time that I have been working on Thor, I have also been working on a replicated file system. This is a project called Harp. </p>
+<p>One of the motivations for undertaking it was simply that we had in mind a particular replication algorithm for Thor. I did not mention that Thor, the objects that you store in Thor are supposed to be highly available, namely, with high probability; whenever you want to use an object in Thor you should be able to use it. To support that we have to replicate the storage for objects. I undertook the work on Harp partly to evaluate the replication algorithm we had in mind to see whether it would be an adequate one to serve as a basis for Thor. But that project has taken a life of its own, and I imagine that the implementation will be complete sometime around the end of the year. And we are trying to sort of hand that over to some industrial partner so that it will actually become a tool that people can use. </p>
+<p><b>Aspray:</b> </p>
+<p>Have you had any chief partners, other faculty members for example, who have worked with you on any of these projects you have described to me? </p>
+<p><b>Liskov:</b> </p>
+<p>Professor William Wile, who is at MIT. I mostly worked in a mode with students, so I have typically worked with my students. I have always had, or since around 1979, a couple of staff people working with me also. Professor Wile was one of my students and did a lot of work on the Argus project as a student. Then, when he came on board the faculty, he collaborated on the work on Mercury. </p>
+<h3><span class="mw-headline" id="Parallel_Projects_by_Other_Researchers">Parallel Projects by Other Researchers</span></h3>
+<p><b>Aspray:</b> </p>
+<p>To what degree were the projects you were working on being worked on perhaps in different ways at other centers of research around the country? </p>
+<p><b>Liskov:</b> </p>
+<p>The projects were not being worked on. There certainly was concurrent work on similar ideas going on elsewhere. For example, when I was working on CLU, there were people, such as Mary Shaw, at Carnegie Mellon working on a similar project called Alphard. I do not know if there was anybody working on a project like Argus at the time that I started doing that work, but that work spawned other work that came along in the future. For instance, the Camelot project at Carnegie, where Al Spector was looking at how to support distributed computations at a somewhat lower level. In other words, rather than providing a programming language, let’s provide some primitives in a system. This was strongly influenced by the work on Argus. </p>
+<p>Later than that there was work at Carnegie on the Avalon project, which was really taking the ideas of Argus and putting them into C++. In addition there was the work of Greg Andrews on — I forget the name of his programming language — a kind of a lower level language, but again it was heavily influenced by Argus. I think the work on the Eden project the University of Washington also. What I am saying is, I do not think there was anything that came along just when Argus did, but if you look at the work that developed in the distributed systems community, what you see are projects that came along a little later than Argus where Argus was clearly a strong influence in what went on in those projects, even though they were not working on exactly the same problem. </p>
+<h3><span id="Strengths_&amp;_Weaknesses_of_NSF_Grants"></span><span class="mw-headline" id="Strengths_.26_Weaknesses_of_NSF_Grants">Strengths &amp; Weaknesses of NSF Grants</span></h3>
+<p><b>Aspray:</b> </p>
+<p>Let me turn to a rather different kind of question. Talk about your relationship with NSF. Have they in any sense played a proactive role in your own career or the careers you see of other people in terms of pushing research topics or enabling research programs? </p>
+<p><b>Liskov:</b> </p>
+<p>They certainly have not in my case. At MIT we have always had adequate funding, so it is not clear that the NSF has had that much of an impact on us. In fact, many of my colleagues do not even bother to get NSF grants. So I cannot answer that question from firsthand experience. My impression is that the NSF equipment program has had an impact at other universities. One of the nice things about the NSF is that they have not tried to dictate the areas that people ought to work on. As opposed to DARPA, where they sort of have their ideas. I think that is actually both a strength and a weakness, on both sides. One of the problems with NSF, and one of the strengths, is the peer review system, which has a way of, on the one hand, weeding out not very good ideas. But it also has a tendency to emphasize the status quo. </p>
+<p><b>Aspray:</b> </p>
+<p>Yes. </p>
+<p><b>Liskov:</b> </p>
+<p>DARPA is a little more open to doing something strange that maybe your peers do not quite get the idea of. But on the other hand it certainly is an in-group that perpetuates itself. </p>
+<p><b>Aspray:</b> </p>
+<p>Given that there has been adequate funding at MIT, why did you bother to go to the NSF for support? </p>
+<p><b>Liskov:</b> </p>
+<p>It always seemed to me that it was the right thing to do. Maybe it was partly for independence, since the DARPA grants in the early days were always big blanket grants and the NSF money was clearly my own. But I also think it does represent a sort of a stamp of approval by the community, which the DARPA grants never did. The fact that these proposals went through peer review and were funded. I am not sure that I understand my motive. I think it was more just that it seemed like the thing to do. </p>
+<p><b>Aspray:</b> </p>
+<p>Are there other comments that you would like to make? Observations about the NSF and its role? Perhaps in your own work or in others that you have seen. </p>
+<p><b>Liskov:</b> </p>
+<p>I do feel that there is a problem at the NSF now. I think there always has been a problem and it is getting worse. Their grants are not big enough. This is not something that hits me terribly hard, but it does hit people who do not have the DARPA funding that I do and who want to do systems work. For example, to do systems work you need professional staff. At one time I was actually able to get part funding for professional staff from the NSF, but I am not able to do that anymore. </p>
+<p><b>Aspray:</b> </p>
+<p>They just rule that out? </p>
+<p><b>Liskov:</b> </p>
+<p>They certainly have not allowed it in my grants. Now I think that the program officer I worked with, Tom Keenan, who is not there anymore, his attitude was, “Well, you are at MIT, you really do not need this funding.” To some extent I think that was justified. But on the other hand, the stories that I hear from people confirm my belief that what you can get out of the NSF is one or maybe two graduate students, if you are extremely lucky, and maybe some summer funding for yourself, and that is about it. And you certainly cannot do systems work on that kind of support. It is not even clear you can really do theory work on that kind of support. So what I see is a kind of proliferation of grant writing, where people have to go to multiple funding agencies in order to support their work, and a lot of energy goes into writing grants and so forth. I think that is not very productive. A lot of time is being wasted in this activity. </p>
+<p><b>Aspray:</b> </p>
+<p>Do you see any positive signs of, positive effect of the NSF in terms of fellowship support or conference support, that sort of thing? Has it made any difference to you? </p>
+<p><b>Liskov:</b> </p>
+<p>No, it has not. </p>
+<p><b>Aspray:</b> </p>
+<p>Anything else? </p>
+<p><b>Liskov:</b> </p>
+<p>I just want to reiterate that my position is a little bit unusual, and so people who work at universities that have not got this DARPA funding to fall back on may have quite a different story to tell. </p>
+<p><b>Aspray:</b> </p>
+<p>Certainly. We understand that well, and that is why we are talking to people at 15 different institutions around the country. But, well thank you very much. This has been most helpful to us. </p>
+<p><b>Liskov:</b> </p>
+<p>Okay. </p>
+<p><b>Aspray:</b> </p>
+<p>Bye now. </p>
+<!-- 
+NewPP limit report
+Cached time: 20210922124620
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+[SMW] In‐text annotation parser time: 0 seconds
+CPU time usage: 0.036 seconds
+Real time usage: 0.043 seconds
+Preprocessor visited node count: 48/1000000
+Post‐expand include size: 123/2097152 bytes
+Template argument size: 59/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 107/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    3.521      1 Template:Audio
+100.00%    3.521      1 -total
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:7186-0!canonical and timestamp 20210922124620 and revision id 183512
+ -->
+</div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://ethw.org/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;oldid=183512">https://ethw.org/w/index.php?title=Oral-History:Barbara_Liskov_(1991)&amp;oldid=183512</a>"</div>
+
+						<!-- end body text -->
+						<!-- data blocks which should go somewhere after the body text, but not before the catlinks block-->
+						
+					</div>
+					<!-- category links -->
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:People_and_organizations" title="Category:People and organizations">People and organizations</a></li><li><a href="/Category:Engineers" title="Category:Engineers">Engineers</a></li><li><a href="/Category:Government" title="Category:Government">Government</a></li><li><a href="/Category:Inventors" title="Category:Inventors">Inventors</a></li><li><a href="/Category:Scientists" title="Category:Scientists">Scientists</a></li><li><a href="/Category:Universities" title="Category:Universities">Universities</a></li><li><a href="/Category:Engineering_and_society" title="Category:Engineering and society">Engineering and society</a></li><li><a href="/Category:Law_%26_government" title="Category:Law &amp; government">Law &amp; government</a></li><li><a href="/Category:Computing_and_electronics" title="Category:Computing and electronics">Computing and electronics</a></li><li><a href="/Category:Computer_science" title="Category:Computer science">Computer science</a></li><li><a href="/Category:Algorithm_analysis" title="Category:Algorithm analysis">Algorithm analysis</a></li><li><a href="/Category:Concurrency_control" title="Category:Concurrency control">Concurrency control</a></li><li><a href="/Category:Formal_languages" title="Category:Formal languages">Formal languages</a></li><li><a href="/Category:Object_oriented_methods" title="Category:Object oriented methods">Object oriented methods</a></li><li><a href="/Category:Object_oriented_programming" title="Category:Object oriented programming">Object oriented programming</a></li><li><a href="/Category:Distributed_computing" title="Category:Distributed computing">Distributed computing</a></li><li><a href="/Category:Engineering_fundamentals" title="Category:Engineering fundamentals">Engineering fundamentals</a></li><li><a href="/Category:Fault_tolerance" title="Category:Fault tolerance">Fault tolerance</a></li><li><a href="/Category:News" title="Category:News">News</a></li></ul></div></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mb-2 mt-4 container-fluid"><script type="text/javascript">var ados = ados || {};ados.run = ados.run || [];ados.run.push(function() {ados_add_placement(4466, 1162183, "mvLeaderboard_ROS", 4).setZone(243053);ados_load();});</script><div id="mvLeaderboard_ROS"></div>
+		<div class="row">
+			<div class="col">
+				<!-- navigation bar -->
+				<nav class="p-navbar not-collapsible small mb-2" role="navigation" id="mw-navigation-gupp02ejhu">
+					<div class="navbar-nav">
+					</div>
+				</nav>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<!-- footer links -->
+				<div id="footer-info" class="footer-info">
+					<!-- info -->
+					<div> This page was last edited on 26 January 2021, at 19:07.</div>
+				</div>
+				<!-- places -->
+				<div id="footer-places" class="footer-places">
+					<div><a href="/ETHW:About" title="ETHW:About">About ETHW</a></div>
+					<div><a href="/ETHW:Policies" title="ETHW:Policies">Policies and disclaimers</a></div>
+				</div>
+			</div>
+			<div class="col">
+				<!-- footer icons -->
+				<div id="footer-icons" class="justify-content-end footer-icons">
+					<!-- poweredby -->
+					<div><a href="https://www.mediawiki.org/" target="_blank"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></div>
+					<div><a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAACJVBMVEXe3t62trbLy8vGxsbAwMDX19e6urqsrKxHcEzQ0NC2tratra2oqKixsbHd3eDFxcXe3t7U1NTa2trX19fQ0NDV1dWNjY2dnZ2UlJSUlJTS0tKUlJSWlpbR0dGenp79/f38/Pz+/v7t7e3v7+/u7u7s7Oz19fX29vb6+vr7+/vz8/Pz8/P4+fnw8PD39/gWTq/09PX6+vktX7b/sg8XT7F6mc/f5OwhVrNvkMthhsfT2+j7rQ/M1eZqjcmFotPs7e9Cb722xuFResK/zOObstnu7/Grvd3M1+mNqNY6aLoaUbEaUbZWfsTk6fE2Zrnp7O8bTq0kWLQuYcpcg8Xh5/Byk83a4eukud1/nM+6yeQkWcGwwuDxnRQyYrigttvI0+gpW7XGyttLdsBni8geVLo0Z9XlkCPb4u+QqtcfVLLo7PNHcr73phFGX6HsmBnpkxg6bNwnXcbX3er19vnr7/SVrdhuhLl+j70vVqY6Xqv0oxJVcbQhV76DjKTz9ffQ2evE0OZAbbzu7/PS1uFufrDnrGgpSZjy8/SQnMFddrKuekXSiCsgTKRaaZHejy9yang3VptNaqspWbnmliy3j2/m6OzT3e7x8fL4+v3p6uwaN2re0cifqLiLiZWYhYGYb0xXYn+5g0xwiMKYpc2BcHZmW2srRXpGWIhecKfilz4+WID2+PyosMywqbGqss1aVnLZq33p1sGklZqrp7dkfr7CpY9yg59Ud6QZAAAAH3RSTlPfBN/f39/f2wDf39vV3/7N2rrEz5D5c8ONuHaPuXXDImoxqwAABO1JREFUSMe1kQdz01gQgBXaBS4w9OtHwMFSdPKTUNxkW+61xN2Je4tLHJNOGukkAUINJTzaUIbO9fr7TpLtS44DZiC5b6Sn3dW+TysJaWz4cv9eZFPZu/+bhkakYR88WqP59u3vjxzdDCT7GpCD4qNH3sEGzOhB5MCR/4PmA8j25uZ33t0A23lxff5hZTIzOrz2Ph8qK936l7i1tT7hk8DAoHNsbeLWKjPdQcZ+qvX9tHMNXca1XBDXHtL6x2Bh0HWtuXUo8oTgC1gVpcdsdpew92PUYtjwzFq+E9mJYfXxx1x5l2/l5Vhy0DW6TuyQCZcR2hnswXJM0h+203471u5WKMIE5mDpspIIO8sZTMZiIbczY6+JCaI+/sJZ38qjP28+nQjkx/mcqGJ26rW3iKg/fYphCL1jNk5WbqXI0nBnu00RJ2j9bNRp6MmFS0SYIXLuUlQ5w22qizHr5MTyy2u/3XxVvHHlwtWVa/xTCQIIlEaMzrgswzA5P9BrAciYASqNoiNdjL8b0GYAHN3AGAEgzPSQc9UtYCeyBQAMO2G9PhhzXfp9qdifSCT6Lj788QQnrvWEuNPI2um0LW0D+m4A6E4AnIZOeq7ksQuJvi6eUXRW+8EWXsxNPhkYGJiSXr7Rd1qtVp9MXHkgIurzAkdFxjrj7cmKbN4K5v8RGxT2sJMTpwBflNHhUJgBdoUylzy3TuwIDBRi0hf9p9VtbW3qk30X7q2Je1IybZq7mLVWFKTSADXPoqi9AzVorda0kKTS6KkRbSgaR1GT1h5CObYiW1GU27yc5z6F9Fn/yTYedeLi9AIA6AbgxGIxAMPZcZeUHH9cFavVfY97FaNA/DbazRZVV89/61at2BTlg1JXiFtrYoBmRyd7p6/UP0XxaSDmy4pt0jmuh8qx6wQ2MmRz18TaJCUWO9xisUVhMMsoZZDiGHLLuXUbso2iatP/1HvhYu3n3bh6Pe/LUjZSj1NUJ8lSlNwahRRlMRjmyFDICikVn8+SacomdbZTVj+0mQSxweS1WqpiHK/Ncubs858f9idOJ/qKS1cv+RbFuIbMmHEvTbO4QeF25CxyD62nSbmJ1MUzRrpiwR0RPBJMpnCGxWVGXBn8TkarNGQHjuPrxOeWY4GY9FmxWHy19Gvv+ayYF6f8oYi7i8U93bjFkYokvbhWEFu8Og2ZxrUe3NMpc3vLhqqYpVV4XbwDQkpgoVwYKOR9N5d+eXB5vJevQA0pD7oVqi4WOj16vX6EYSA08WKvyeOZJw1cQ6rsnXOa/RYoM0Kls0zLuVoHhHAHL8YFXkwVCoE8uXhvMVCY8mW5Ci8eKkcgJ9azOl0UajNDFiUpj5JeloEqTgwd/iCUJP0sFMSejkpO96b4zl1fPuYiyd6Vs4GBmHSsJoYmLy/WeBTlis5rlJYrgjhe1s+XOXGEtHJOMl4VB2EHLauKdyG7JBLIc//uslRKkhOrcGJqyiU9z5UkOpVOwiGXSyQizRAfqlRc7Y5KJFnV6FReiWSV7xAWeQd/SOSq6qY18eVHq4vjlyazEJ73ScmJPVxJVKdF9MFwYpFIEL+ehvDOcSH8YXRsAa4XfwS7kd0tLfw7Sp7fl7xJywbYjTTVotfTb+849lEcb0K+2lMN/5o+tons+Rxp+PrQ8U3n0BcNSGPj4W+bPuX5ZLNo+uxwY+PfoLJHX1KXgyMAAAAASUVORK5CYII=" alt="Powered by Semantic MediaWiki" class="smw-footer" width="88" height="31" loading="lazy"/></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"mediawiki.skinning.content\".\nYour default skin ResourceLoader class should use ResourceLoaderSkinModule::class");mw.config.set({"wgPageParseReport":{"smw":{"limitreport-intext-parsertime":0},"limitreport":{"cputime":"0.036","walltime":"0.043","ppvisitednodes":{"value":48,"limit":1000000},"postexpandincludesize":{"value":123,"limit":2097152},"templateargumentsize":{"value":59,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":107,"limit":5000000},"timingprofile":["100.00%    3.521      1 Template:Audio","100.00%    3.521      1 -total"]},"cachereport":{"timestamp":"20210922124620","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-22814006-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72});});</script></body>
+</html>
