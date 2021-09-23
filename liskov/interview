@@ -1,0 +1,102 @@
+Hello.  My name is Lars Brinkhoff, and I have the honor today to
+interview Barbara Liskov.
+
+We are going to talk about the early development of the CLU
+programming language, and in the end I will present a small hello
+world example using a PDP-10 emulator.
+
+Hello Barbara, I'm very happy to talk to you.
+
+First, I understand CLU was influenced quite a bit by Lisp.  In your
+CLU history paper you write that you have used Lisp extensively.  Was
+that during your time at Stanford?
+
+Which machine was Lisp running on?  Did you use the PDP-1 or PDP-6 at
+the McCarthy's AI lab?  What was programming like at that time; did
+you use punched cards or teletypes?
+
+I understand you first came to MIT in 1972.  It seems you were somehow
+associated with Jack Dennis' Computation Structures Group, is that
+correct?
+
+But you were also associated with Licklider's Dynamic Modeling group,
+at least using their PDP-10 computer.  Why did you work on the PDP-10
+rather than Multics?
+
+The PDP-10 ran the Incompatible Timesharing System.  I understand
+there were two ways to pronounce the short form of the name: I.T.S. or
+its.  Which do you prefer?
+
+Your CLU history paper says the first version of CLU was written in
+Lisp and generated Lisp output, is that correct?  Did you use the
+Maclisp dialect?
+
+You write you changed to Muddle due to political reasons.  What
+reasons were those?
+
+What was programming like at MIT; were you (still) using teletypes, or
+did you use the graphical Imlac terminals?  Maybe also VT52 text
+terminals?
+
+As an aside, much later your group acquired some VAXstation 100
+terminals.  Which led to Bob Scheifler starting the X Window System,
+so CLU had a big impact on how graphics is done on Unix.
+
+One of your students, Alan Snyder, worked a while at Bell Labs and
+wrote a C compiler.  Did his work on C influence CLU?
+
+One last question before the hello world demo.  Have you seen the 1982
+movie TRON?  It has a character named CLU, and the script was written
+by Alan Kay's wife, so it's a short mental leap to associate it with
+your programming language.  Do you know if there is a connection?
+
+(share screen)
+
+This is a terminal emulator connected to a PDP-10 emulator running
+ITS.  And thanks to files from backup tapes stored at MIT we have a
+version of CLU from 1978.
+
+(log in)
+
+Your group wrote their own text editor called TED.  Was that your
+preferred editor?  Did you also use TECO, RMODE, or EMACS?
+
+(start emacs, M-X CLU mode)
+
+hello = proc()
+    file$puts(file$tyo(), "Hello world!\n") %Newline like in C?
+end hello
+
+clu^K
+help
+compile hello
+quit
+quit_()
+
+^F to see HELLO BIN
+
+At this point we might expect to use a linker, but as far as I
+understand there wasn't one at this point.  So we'll load the compiled
+file another way.
+
+clusys^K
+
+fload("hello bin"), same as Muddle.
+hello()
+
+But we can do better than this.  We can make a standalone executable
+program.
+
+start_up = proc() %Like main in C.
+    hello()
+    quit_()
+end start_up
+
+:clu hello
+clusys^K
+fload("hello")
+gc_pure_dump("ts hello")
+
+^F to see TS HELLO
+
+hello^K
