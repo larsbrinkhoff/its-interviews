@@ -1,11 +1,11 @@
 .c Letter to Sussman.
 .xgp
-.font 0 25vg
-.font 1 25vgi
-.font 2 25fgb
+.font 0 30vr
+.font 1 30vri
+.font 2 30fgb1
 .squish
 
-.tw 40
+.tw 35
 .adjust
 
 Hello,
