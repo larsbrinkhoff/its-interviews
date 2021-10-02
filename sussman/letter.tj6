@@ -1,0 +1,75 @@
+.c Letter to Sussman.
+.xgp
+.font 0 25vg
+.font 1 25vgi
+.font 2 25fgb
+.squish
+
+.tw 40
+.adjust
+
+Hello,
+
+By way of introduction, I'm researching the ITS operating system, and
+I'm trying to have much of the software running on PDP-10 emulators.
+MIT Libraries have arranged access for me to CSAIL's 1Tapes of Tech
+Square0 archive of PDP-10 backup tapes, but they only go back to
+1971.  A few weeks ago I stumbled across something that astonished me.
+It's a passage from the book 1"The Tomorrow Makers"0 from 1988.  I
+have reproduced it on the next page.  It says you had a 1967 printout
+of ITS.  Is that true, and if so, is there any chance you still have
+it?
+
+I'm writing mostly to ascertain whether the printout has been
+preserved.  Ideally, some day I'd hope to see it scanned.  If so, I
+would have it typed in, assembled, and run on a PDP-6 emulator.
+However, I understand having it scanned may not be so easy, and it
+would probably have to be done under carefully controlled conditions.
+
+Best regards,
+.break
+Lars Brinkhoff
+
+Bokskogsbacken 66
+.break
+422 25 Hisings Backa
+.break
+Sweden
+
+Email: 2lars@nocrew.org0
+
+.page
+
+Excerpt from the book 1"The Tomorrow Makers"0, by Grant Fjermedal.
+
+  1Then he pulled out a printout that he handled as if it were an
+original Gutenberg bible.  It was the original code for the ITS
+operating system - the Incompatible Timesharing System.  It even
+seemed awesome to me.  Today we just accept the fact that a mainframe
+computer can be in the basement of a building and desktop terminals
+can be spread throughout a building, or throughout the world,
+providing anyone with a terminal, access to the computer.  It is hard
+to realize that as late as the 1960s this wasn't the case.  If you
+wanted computer time, you wrote your program, took it to the computer
+room, and had it run oftentimes by someone else, even if you wanted to
+do it yourself.
+
+  It is a tribute to the modesty and especially to the irreverence of
+the early hackers that when they created the world's first timesharing
+system at MIT, they provided it with a name that was completely
+opposite from what it really was: the Incompatible Timesharing System.
+
+  There was Gerry Sussman holding that half-inch printout, a blessed
+relic from 1967.  The machine has a Moby memory, and as if reciting
+from the opening words of the Great American novel, Sussman held the
+printout in his hands and said, 0"The first line of it is, Moby is
+One."1  It was written as 2MOBY=11, but the way Sussman read it,
+there was the sound of poetry and philosophy, as existential a piece
+of haiku as I have ever heard: Moby is One.  0"These days such an
+operating system would have maybe one hundred times as much code.  But
+this is what it was like then, filled with some very beautiful coded
+and some very ugly code.  Some of it is humorous, and some of it is
+sad.  Some of it had ideas in it that have been lost.  Some historian
+could go through it someday and read it the way people read the Dead
+Sea Scrolls and say, 1'Aha, The guys who wrote this were real smart
+guys.  And some of the things they knew, we don't even know now.'"
